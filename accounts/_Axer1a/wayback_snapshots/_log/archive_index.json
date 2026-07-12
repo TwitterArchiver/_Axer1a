@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T10:02:29",
+  "last_updated": "2026-07-12T10:02:46",
   "html": {
     "https://web.archive.org/web/20260628155711if_/https://twitter.com/_Axer1a/status/2071261637588533256": {
       "status": "done",
@@ -1086,13 +1086,13 @@
       "last_updated": "2026-07-12T09:56:26"
     },
     "https://pbs.twimg.com/profile_images/2064618029153947648/WFw6lgab_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260703144449_twitter_com__Axer1a_status_2073055367303676409.json"
       ],
-      "last_updated": "2026-07-12T09:56:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260703144449im_/https://pbs.twimg.com/profile_images/2064618029153947648/WFw6lgab_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4428362fc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T10:02:46",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260703144449if_/https://pbs.twimg.com/profile_images/2064618029153947648/WFw6lgab_normal.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg": {
       "status": "done",
@@ -1844,7 +1844,7 @@
       "last_updated": "2026-07-12T10:02:15"
     },
     "20260703144449_twitter_com__Axer1a_status_2073055367303676409.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HMT0GnFXsAAwEYO.jpg"
@@ -1855,7 +1855,7 @@
           "https://pbs.twimg.com/profile_images/2064618029153947648/WFw6lgab_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T10:02:28",
+      "last_updated": "2026-07-12T10:02:46",
       "miss_count": 2
     },
     "20260703160501_twitter_com__Axer1a_status_2073075550667813265.json": {
