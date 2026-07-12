@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2071235017666441455",
+    "created_at": "2026-06-28T14:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071235017666441455"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071235017666441455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雌二醇吃没了但是钱都用来买药没钱买所以hrt中断。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2071235017666441455",
+        "created_at": "2026-06-28T14:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071235017666441455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071235017666441455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雌二醇吃没了但是钱都用来买药没钱买所以hrt中断。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？ 航天/观鸟/音游 enby any pronoun hrt2026.3 阴湿自闭地雷精神病药蛆毒虫促智批 混沌中立 已去键政化......                 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 138,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 115,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 1808,
+          "like_count": 80589,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 5118
+        },
+        "url": "",
+        "username": "_Axer1a",
+        "verified": false
+      }
+    ]
+  }
+}

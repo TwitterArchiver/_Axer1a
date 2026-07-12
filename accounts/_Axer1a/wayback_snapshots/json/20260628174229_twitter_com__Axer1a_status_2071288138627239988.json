@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071288135829667840"
+      ]
+    },
+    "author_id": "1494669485214633984",
+    "conversation_id": "2071288138627239988",
+    "created_at": "2026-06-28T17:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071288138627239988"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LhUzwhHWkp",
+          "end": 27,
+          "expanded_url": "https://x.com/_Axer1a/status/2071288138627239988/photo/1",
+          "media_key": "3_2071288135829667840",
+          "start": 4,
+          "url": "https://t.co/LhUzwhHWkp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071288138627239988",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "彩框了 https://t.co/LhUzwhHWkp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 338,
+        "media_key": "3_2071288135829667840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6xldubwAAmnjg.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071288135829667840"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "conversation_id": "2071288138627239988",
+        "created_at": "2026-06-28T17:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071288138627239988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LhUzwhHWkp",
+              "end": 27,
+              "expanded_url": "https://x.com/_Axer1a/status/2071288138627239988/photo/1",
+              "media_key": "3_2071288135829667840",
+              "start": 4,
+              "url": "https://t.co/LhUzwhHWkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071288138627239988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "彩框了 https://t.co/LhUzwhHWkp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？ 航天/观鸟/音游 enby any pronoun 阴湿自闭地雷精神病药蛆毒虫促智批 一般通过oder 混沌中立 已去键政化......                 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 137,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 114,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 1811,
+          "like_count": 80632,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 5128
+        },
+        "url": "",
+        "username": "_Axer1a",
+        "verified": false
+      }
+    ]
+  }
+}

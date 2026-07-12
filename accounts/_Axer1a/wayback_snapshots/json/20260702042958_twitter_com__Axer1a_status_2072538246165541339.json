@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2072534680201752613",
+    "created_at": "2026-07-02T04:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072538246165541339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1656639704178229253",
+          "start": 0,
+          "username": "KanakoHuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072538246165541339",
+    "in_reply_to_user_id": "1656639704178229253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072534680201752613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KanakoHuu 求教程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2072534680201752613",
+        "created_at": "2026-07-02T04:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072538246165541339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1656639704178229253",
+              "start": 0,
+              "username": "KanakoHuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072538246165541339",
+        "in_reply_to_user_id": "1656639704178229253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072534680201752613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KanakoHuu 求教程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656639704178229253",
+        "conversation_id": "2072534680201752613",
+        "created_at": "2026-07-02T04:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072534680201752613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072534680201752613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发质太硬了，风吹到头发打我的脸，好疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？ 航天/观鸟/音游 enby any pronoun 阴湿自闭地雷精神病药蛆毒虫促智批 一般通过oder 混沌中立 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️\n最爱的@Ayin886030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Ayin886030"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 109,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 86,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 1811,
+          "like_count": 81110,
+          "listed_count": 0,
+          "media_count": 419,
+          "tweet_count": 5143
+        },
+        "url": "",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T12:37:49.000Z",
+        "description": "06 IP南昌/大连 发些心理活动和日常分享\nDMok\nLangs：简中/繁中/日本語/English",
+        "id": "1656639704178229253",
+        "location": "グレーゾーン",
+        "name": "K.楓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992288987206299648/1L_4RqoO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 884,
+          "like_count": 8145,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 750
+        },
+        "url": "",
+        "username": "KanakoHuu",
+        "verified": false
+      }
+    ]
+  }
+}

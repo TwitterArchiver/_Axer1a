@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2073388208571011506",
+    "created_at": "2026-07-04T12:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073388208571011506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_Axer1a/status…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/_Axer1a/status/1874843827128992175",
+          "start": 22,
+          "url": "https://t.co/RnqoRpOw6p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073388208571011506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874843827128992175",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈那时候大概以为自己这辈子只会玩促智药。 https://t.co/RnqoRpOw6p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2073388208571011506",
+        "created_at": "2026-07-04T12:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073388208571011506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_Axer1a/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/_Axer1a/status/1874843827128992175",
+              "start": 22,
+              "url": "https://t.co/RnqoRpOw6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073388208571011506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874843827128992175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈那时候大概以为自己这辈子只会玩促智药。 https://t.co/RnqoRpOw6p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "1874843827128992175",
+        "created_at": "2025-01-02T15:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T16:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874843827128992175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874843827128992175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1982,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝试过的药物：\nalphagpc\nidra21\n长春西汀\n感兴趣的药物：\nisrib\n苏糖酸镁/甘氨酸镁\n反苯环丙胺\n吡拉西坦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？ 航天/观鸟/音游 enby any pronoun 阴湿自闭地雷精神病药蛆毒虫促智批 一般通过oder 混沌中立 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️ 最爱的@Ayin886030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Ayin886030"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 109,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 86,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 1817,
+          "like_count": 81411,
+          "listed_count": 1,
+          "media_count": 420,
+          "tweet_count": 5164
+        },
+        "url": "",
+        "username": "_Axer1a",
+        "verified": false
+      }
+    ]
+  }
+}

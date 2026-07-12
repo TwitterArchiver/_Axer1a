@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071113576019001344"
+      ],
+      "media_source_tweet_id": [
+        "2071113585301074138"
+      ]
+    },
+    "author_id": "1494669485214633984",
+    "conversation_id": "2071477320305782967",
+    "created_at": "2026-06-29T06:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071477320305782967"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 12,
+          "tag": "skeb"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1494535717602557953",
+          "start": 3,
+          "username": "369_EW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FVFtA036EU",
+          "end": 52,
+          "expanded_url": "https://x.com/369_EW/status/2071113585301074138/photo/1",
+          "media_key": "3_2071113576019001344",
+          "start": 29,
+          "url": "https://t.co/FVFtA036EU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071477320305782967",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071113585301074138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @369_EW: #skeb 遅くなりました…❕💿 https://t.co/FVFtA036EU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071113576019001344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4S0vwaAAAguUE.jpg",
+        "width": 1583
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071113576019001344"
+          ],
+          "media_source_tweet_id": [
+            "2071113585301074138"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "conversation_id": "2071477320305782967",
+        "created_at": "2026-06-29T06:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071477320305782967"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "skeb"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1494535717602557953",
+              "start": 3,
+              "username": "369_EW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FVFtA036EU",
+              "end": 52,
+              "expanded_url": "https://x.com/369_EW/status/2071113585301074138/photo/1",
+              "media_key": "3_2071113576019001344",
+              "start": 29,
+              "url": "https://t.co/FVFtA036EU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071477320305782967",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071113585301074138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @369_EW: #skeb 遅くなりました…❕💿 https://t.co/FVFtA036EU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071113576019001344"
+          ]
+        },
+        "author_id": "1494535717602557953",
+        "conversation_id": "2071113585301074138",
+        "created_at": "2026-06-28T06:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071113585301074138"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "skeb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FVFtA036EU",
+              "end": 40,
+              "expanded_url": "https://x.com/369_EW/status/2071113585301074138/photo/1",
+              "media_key": "3_2071113576019001344",
+              "start": 17,
+              "url": "https://t.co/FVFtA036EU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071113585301074138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 227,
+          "impression_count": 21352,
+          "like_count": 1843,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "#skeb 遅くなりました…❕💿 https://t.co/FVFtA036EU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？ 航天/观鸟/音游 enby any pronoun 阴湿自闭地雷精神病药蛆毒虫促智批 一般通过oder 混沌中立 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️\n最爱的@Ayin886030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Ayin886030"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 109,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 86,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 1812,
+          "like_count": 80710,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 5133
+        },
+        "url": "",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T04:54:31.000Z",
+        "description": "ローポリ人生🎂🔨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@369_EW",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@369_EW",
+                "start": 0,
+                "url": "https://t.co/1ytofNWJZw"
+              }
+            ]
+          }
+        },
+        "id": "1494535717602557953",
+        "location": "@am314__",
+        "name": "シュークリームどうぶつえん",
+        "pinned_tweet_id": "1599732163888713729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039339698435588096/h98iZrrq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12761,
+          "following_count": 23,
+          "like_count": 31659,
+          "listed_count": 116,
+          "media_count": 586,
+          "tweet_count": 4029
+        },
+        "url": "https://t.co/1ytofNWJZw",
+        "username": "369_EW",
+        "verified": false
+      }
+    ]
+  }
+}

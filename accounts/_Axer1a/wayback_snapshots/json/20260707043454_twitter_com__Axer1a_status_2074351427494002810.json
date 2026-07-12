@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2074330039286731049",
+    "created_at": "2026-07-07T04:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074351427494002810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008360423771316224",
+          "start": 0,
+          "username": "Konizaza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074351427494002810",
+    "in_reply_to_user_id": "2008360423771316224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074330039286731049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konizaza 建议修眉刀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074330032001134592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmALIBaMAAyUKv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074330031996997632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmALIAbEAAEwfb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2074330039286731049",
+        "created_at": "2026-07-07T04:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074351427494002810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008360423771316224",
+              "start": 0,
+              "username": "Konizaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074351427494002810",
+        "in_reply_to_user_id": "2008360423771316224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074330039286731049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konizaza 建议修眉刀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074330032001134592",
+            "3_2074330031996997632"
+          ]
+        },
+        "author_id": "2008360423771316224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074330039286731049",
+        "created_at": "2026-07-07T03:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074330039286731049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Km41P67wTJ",
+              "end": 168,
+              "expanded_url": "https://x.com/Konizaza/status/2074330039286731049/photo/1",
+              "media_key": "3_2074330032001134592",
+              "start": 145,
+              "url": "https://t.co/Km41P67wTJ"
+            },
+            {
+              "display_url": "pic.x.com/Km41P67wTJ",
+              "end": 168,
+              "expanded_url": "https://x.com/Konizaza/status/2074330039286731049/photo/1",
+              "media_key": "3_2074330031996997632",
+              "start": 145,
+              "url": "https://t.co/Km41P67wTJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074330039286731049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "割手为证！绝对不是用红笔画的喵（心虚\n我美好的假期怎么能被作业耽误呢？\n暑假才放二十几天，作业就有这么多…\n啊！啊啊啊？啊啊啊啊啊！！！\n我zaza酱在此发誓的喵😡\n暑假作业！四天之内写完😡\n割手手为证的喵😡\n我与作业不死不休的喵😡\n完不成作业我就紫砂😡\n塔塔开😡我要去和作业塔塔开了喵～\n写完作业再来高强度发帖的喵😋"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "割手为证！绝对不是用红笔画的喵（心虚\n我美好的假期怎么能被作业耽误呢？\n暑假才放二十几天，作业就有这么多…\n啊！啊啊啊？啊啊啊啊啊！！！\n我zaza酱在此发誓的喵😡\n暑假作业！四天之内写完😡\n割手手为证的喵😡\n我与作业不死不休的喵😡\n完不成作业我就紫砂😡\n塔塔开😡我要去和作业塔塔开了喵～ https://t.co/Km41P67wTJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？ 航天/观鸟/音游 enby any pronoun 阴湿自闭地雷精神病药蛆毒虫促智批 一般通过oder 混沌中立 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️ 最爱的@Ayin886030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Ayin886030"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 109,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 86,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 1816,
+          "like_count": 81809,
+          "listed_count": 1,
+          "media_count": 422,
+          "tweet_count": 5177
+        },
+        "url": "",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互fo喵～｜MTF｜无证｜生产日期：08年九月|天残党｜浙江｜雌小鬼｜想学伪音没时间｜断糖中｜我喜欢你，你喜欢我，关注会回，请和我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apple.com",
+                "end": 23,
+                "expanded_url": "http://apple.com",
+                "start": 0,
+                "url": "https://t.co/lv7KKEroCn"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "location": "你的心里",
+        "name": "Konizaza🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2074315910849106041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 387,
+          "like_count": 724,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 412
+        },
+        "url": "https://t.co/lv7KKEroCn",
+        "username": "Konizaza",
+        "verified": true
+      }
+    ]
+  }
+}

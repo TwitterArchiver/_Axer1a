@@ -1,0 +1,538 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074036655745572864"
+      ],
+      "media_source_tweet_id": [
+        "2074036954614886403"
+      ]
+    },
+    "author_id": "1494669485214633984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Graphic Design",
+          "id": "1046580793848418305",
+          "name": "Graphic design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Graphic Design",
+          "id": "1046580793848418305",
+          "name": "Graphic design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2074151913952890987",
+    "created_at": "2026-07-06T15:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074151913952890987"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 51,
+          "tag": "graphic"
+        },
+        {
+          "end": 67,
+          "start": 60,
+          "tag": "design"
+        },
+        {
+          "end": 82,
+          "start": 68,
+          "tag": "graphicdesign"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1572974338005139461",
+          "start": 3,
+          "username": "HALO_unOfficial"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ljjYjAQEeq",
+          "end": 106,
+          "expanded_url": "https://x.com/HALO_unOfficial/status/2074036954614886403/photo/1",
+          "media_key": "3_2074036655745572864",
+          "start": 83,
+          "url": "https://t.co/ljjYjAQEeq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074151913952890987",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074036954614886403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HALO_unOfficial: Camellia - S.A.T.E.L.L.I.T.E.\n#graphic #design #graphicdesign https://t.co/ljjYjAQEeq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2074036655745572864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMh1WYTaoAA8lhN.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074036655745572864"
+          ],
+          "media_source_tweet_id": [
+            "2074036954614886403"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2074151913952890987",
+        "created_at": "2026-07-06T15:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074151913952890987"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 51,
+              "tag": "graphic"
+            },
+            {
+              "end": 67,
+              "start": 60,
+              "tag": "design"
+            },
+            {
+              "end": 82,
+              "start": 68,
+              "tag": "graphicdesign"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1572974338005139461",
+              "start": 3,
+              "username": "HALO_unOfficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljjYjAQEeq",
+              "end": 106,
+              "expanded_url": "https://x.com/HALO_unOfficial/status/2074036954614886403/photo/1",
+              "media_key": "3_2074036655745572864",
+              "start": 83,
+              "url": "https://t.co/ljjYjAQEeq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074151913952890987",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074036954614886403",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HALO_unOfficial: Camellia - S.A.T.E.L.L.I.T.E.\n#graphic #design #graphicdesign https://t.co/ljjYjAQEeq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074036655745572864"
+          ]
+        },
+        "author_id": "1572974338005139461",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2074036954614886403",
+        "created_at": "2026-07-06T07:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074036954614886403"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "graphic"
+            },
+            {
+              "end": 46,
+              "start": 39,
+              "tag": "design"
+            },
+            {
+              "end": 61,
+              "start": 47,
+              "tag": "graphicdesign"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljjYjAQEeq",
+              "end": 85,
+              "expanded_url": "https://x.com/HALO_unOfficial/status/2074036954614886403/photo/1",
+              "media_key": "3_2074036655745572864",
+              "start": 62,
+              "url": "https://t.co/ljjYjAQEeq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074036954614886403",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 3179,
+          "like_count": 216,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "Camellia - S.A.T.E.L.L.I.T.E.\n#graphic #design #graphicdesign https://t.co/ljjYjAQEeq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？ 航天/观鸟/音游 enby any pronoun 阴湿自闭地雷精神病药蛆毒虫促智批 一般通过oder 混沌中立 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️ 最爱的@Ayin886030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Ayin886030"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 109,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 86,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 1817,
+          "like_count": 81713,
+          "listed_count": 1,
+          "media_count": 422,
+          "tweet_count": 5175
+        },
+        "url": "",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-22T15:41:30.000Z",
+        "description": "live with trance",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/444287158",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/444287158",
+                "start": 0,
+                "url": "https://t.co/EUEZqHH2zs"
+              }
+            ]
+          }
+        },
+        "id": "1572974338005139461",
+        "location": "🇨🇳",
+        "name": "HALO_unOfficial",
+        "pinned_tweet_id": "2073364236773077043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030169237692747776/l2LpOhIV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 518,
+          "like_count": 4382,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 160
+        },
+        "url": "https://t.co/EUEZqHH2zs",
+        "username": "HALO_unOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

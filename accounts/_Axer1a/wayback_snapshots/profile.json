@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "username": "@_Axer1a",
+  "bio": "",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "urls": [
+      {
+        "display_url": "t.me/edgeshelter2",
+        "end": 138,
+        "expanded_url": "http://t.me/edgeshelter2",
+        "start": 115,
+        "url": "https://t.co/SuFqJ2PRQa"
+      }
+    ]
+  }
+}

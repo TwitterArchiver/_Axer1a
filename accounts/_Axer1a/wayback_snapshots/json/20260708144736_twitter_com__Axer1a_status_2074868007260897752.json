@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+          "id": "1011352563667558400",
+          "name": "Economic Issues in Japan"
+        }
+      }
+    ],
+    "conversation_id": "2074868007260897752",
+    "created_at": "2026-07-08T14:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074868007260897752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LabSpeculation…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/LabSpeculation/status/2074812690904854945",
+          "start": 22,
+          "url": "https://t.co/On8vJBs4aG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074868007260897752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074812690904854945",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还好我城中村租个房吃速食喝瓶装小甜水就能活 https://t.co/On8vJBs4aG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2074812337136308224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMs20-qbkAApwjw.png",
+        "width": 868
+      },
+      {
+        "height": 918,
+        "media_key": "3_2074812371630276608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMs22_KbwAAwuDq.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "2074868007260897752",
+        "created_at": "2026-07-08T14:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074868007260897752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LabSpeculation…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/LabSpeculation/status/2074812690904854945",
+              "start": 22,
+              "url": "https://t.co/On8vJBs4aG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074868007260897752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074812690904854945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还好我城中村租个房吃速食喝瓶装小甜水就能活 https://t.co/On8vJBs4aG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074812337136308224",
+            "3_2074812371630276608"
+          ]
+        },
+        "author_id": "1481227011100233730",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "2074812690904854945",
+        "created_at": "2026-07-08T11:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074812690904854945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vwQwAgLIjx",
+              "end": 147,
+              "expanded_url": "https://x.com/LabSpeculation/status/2074812690904854945/photo/1",
+              "media_key": "3_2074812337136308224",
+              "start": 124,
+              "url": "https://t.co/vwQwAgLIjx"
+            },
+            {
+              "display_url": "pic.x.com/vwQwAgLIjx",
+              "end": 147,
+              "expanded_url": "https://x.com/LabSpeculation/status/2074812690904854945/photo/1",
+              "media_key": "3_2074812371630276608",
+              "start": 124,
+              "url": "https://t.co/vwQwAgLIjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074812690904854945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 55080,
+          "like_count": 151,
+          "quote_count": 3,
+          "reply_count": 59,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "小红书有个帖子火了，是一位自认为物欲不高的准女大学生，对未来的一些小小憧憬。\n让gpt估算了一下，图中的生活在上海起码需要税前年薪80万左右。\n\n每天咖啡奶茶，每年1～2件奢侈品，每年2次出国游，每月1次国内游...\n\n真是重新定义了 物欲不高😁 https://t.co/vwQwAgLIjx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？ 航天/观鸟/音游 enby any pronoun 阴湿自闭地雷精神病药蛆毒虫促智批 一般通过oder 混沌中立 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️ 最爱的@Ayin886030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Ayin886030"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 109,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 86,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 1817,
+          "like_count": 82032,
+          "listed_count": 1,
+          "media_count": 422,
+          "tweet_count": 5173
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T11:30:29.000Z",
+        "description": "一个总想躺着赚钱的不成功交易员 😴💤\n\nYouTube频道：https://t.co/GDIXrAGfWz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@speculation",
+                "end": 53,
+                "expanded_url": "https://www.youtube.com/@speculation",
+                "start": 30,
+                "url": "https://t.co/GDIXrAGfWz"
+              }
+            ]
+          }
+        },
+        "id": "1481227011100233730",
+        "name": "投机实验室",
+        "pinned_tweet_id": "2052605308711927956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504111773183578120/Hu0TWmyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75977,
+          "following_count": 992,
+          "like_count": 3182,
+          "listed_count": 761,
+          "media_count": 2506,
+          "tweet_count": 3895
+        },
+        "url": "",
+        "username": "LabSpeculation",
+        "verified": true
+      }
+    ]
+  }
+}

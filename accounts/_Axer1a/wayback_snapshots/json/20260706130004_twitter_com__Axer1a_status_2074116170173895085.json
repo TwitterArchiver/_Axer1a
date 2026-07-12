@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074097701642498048"
+      ],
+      "media_source_tweet_id": [
+        "2074097875710263303"
+      ]
+    },
+    "author_id": "1494669485214633984",
+    "conversation_id": "2074116170173895085",
+    "created_at": "2026-07-06T13:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T14:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074116170173895085"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 20,
+          "tag": "イラストㅤㅤㅤ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "806097188392603648",
+          "start": 3,
+          "username": "chocoshi3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l8zU410N1H",
+          "end": 52,
+          "expanded_url": "https://x.com/chocoshi3/status/2074097875710263303/photo/1",
+          "media_key": "3_2074097701642498048",
+          "start": 29,
+          "url": "https://t.co/l8zU410N1H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074116170173895085",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074097875710263303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chocoshi3: 隙間風\n\n#イラストㅤㅤㅤ https://t.co/l8zU410N1H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2074097701642498048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMis3t_a8AAMZ2A.jpg",
+        "width": 1013
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074097701642498048"
+          ],
+          "media_source_tweet_id": [
+            "2074097875710263303"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "conversation_id": "2074116170173895085",
+        "created_at": "2026-07-06T13:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074116170173895085"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 20,
+              "tag": "イラストㅤㅤㅤ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "806097188392603648",
+              "start": 3,
+              "username": "chocoshi3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8zU410N1H",
+              "end": 52,
+              "expanded_url": "https://x.com/chocoshi3/status/2074097875710263303/photo/1",
+              "media_key": "3_2074097701642498048",
+              "start": 29,
+              "url": "https://t.co/l8zU410N1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074116170173895085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074097875710263303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chocoshi3: 隙間風\n\n#イラストㅤㅤㅤ https://t.co/l8zU410N1H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074097701642498048"
+          ]
+        },
+        "author_id": "806097188392603648",
+        "conversation_id": "2074097875710263303",
+        "created_at": "2026-07-06T11:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074097875710263303"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 5,
+              "tag": "イラストㅤㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8zU410N1H",
+              "end": 37,
+              "expanded_url": "https://x.com/chocoshi3/status/2074097875710263303/photo/1",
+              "media_key": "3_2074097701642498048",
+              "start": 14,
+              "url": "https://t.co/l8zU410N1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074097875710263303",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 12891,
+          "like_count": 1093,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "隙間風\n\n#イラストㅤㅤㅤ https://t.co/l8zU410N1H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？ 航天/观鸟/音游 enby any pronoun 阴湿自闭地雷精神病药蛆毒虫促智批 一般通过oder 混沌中立 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️ 最爱的@Ayin886030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Ayin886030"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 109,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 86,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 1817,
+          "like_count": 81693,
+          "listed_count": 1,
+          "media_count": 422,
+          "tweet_count": 5176
+        },
+        "url": "",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-06T11:25:21.000Z",
+        "description": "フリーのイラストレーターです\nちょこです。チョコレートが好きです。風景を描いています。 猫と女の子が旅の途中に見た風景。\n\n■2027年2月以降のお仕事募集しております。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chooco013.studio.site",
+                "end": 23,
+                "expanded_url": "https://chooco013.studio.site/",
+                "start": 0,
+                "url": "https://t.co/LSejX7vRtB"
+              }
+            ]
+          }
+        },
+        "id": "806097188392603648",
+        "location": "北極星",
+        "name": "chooco",
+        "pinned_tweet_id": "1591370218546245632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291730462751129602/PA2UdA9y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230066,
+          "following_count": 776,
+          "like_count": 22494,
+          "listed_count": 1764,
+          "media_count": 680,
+          "tweet_count": 12207
+        },
+        "url": "https://t.co/LSejX7vRtB",
+        "username": "chocoshi3",
+        "verified": true
+      }
+    ]
+  }
+}
