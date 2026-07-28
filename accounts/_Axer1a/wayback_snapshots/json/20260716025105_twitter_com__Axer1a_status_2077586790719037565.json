@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077045554832719872"
+      ],
+      "media_source_tweet_id": [
+        "2077045560645988451"
+      ]
+    },
+    "author_id": "1494669485214633984",
+    "conversation_id": "2077586790719037565",
+    "created_at": "2026-07-16T02:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T03:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077586790719037565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967755187633926145",
+          "start": 3,
+          "username": "junaida900"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y9OYXVsZgF",
+          "end": 50,
+          "expanded_url": "https://x.com/junaida900/status/2077045560645988451/photo/1",
+          "media_key": "3_2077045554832719872",
+          "start": 27,
+          "url": "https://t.co/Y9OYXVsZgF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077586790719037565",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 513
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077045560645988451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @junaida900: 優しい世界にいさせて https://t.co/Y9OYXVsZgF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_2077045554832719872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMl7W4bwAAwumW.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077045554832719872"
+          ],
+          "media_source_tweet_id": [
+            "2077045560645988451"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "conversation_id": "2077586790719037565",
+        "created_at": "2026-07-16T02:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T03:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077586790719037565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967755187633926145",
+              "start": 3,
+              "username": "junaida900"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y9OYXVsZgF",
+              "end": 50,
+              "expanded_url": "https://x.com/junaida900/status/2077045560645988451/photo/1",
+              "media_key": "3_2077045554832719872",
+              "start": 27,
+              "url": "https://t.co/Y9OYXVsZgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077586790719037565",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 513
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077045560645988451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @junaida900: 優しい世界にいさせて https://t.co/Y9OYXVsZgF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077045554832719872"
+          ]
+        },
+        "author_id": "1967755187633926145",
+        "conversation_id": "2077045560645988451",
+        "created_at": "2026-07-14T15:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077045560645988451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y9OYXVsZgF",
+              "end": 34,
+              "expanded_url": "https://x.com/junaida900/status/2077045560645988451/photo/1",
+              "media_key": "3_2077045554832719872",
+              "start": 11,
+              "url": "https://t.co/Y9OYXVsZgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077045560645988451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 437,
+          "impression_count": 45435,
+          "like_count": 5868,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 513
+        },
+        "reply_settings": "everyone",
+        "text": "優しい世界にいさせて https://t.co/Y9OYXVsZgF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？ 航天/观鸟/音游 enby any pronoun 阴湿自闭地雷精神病药蛆毒虫促智批 一般通过oder 混沌中立 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️ 最爱的@Ayin886030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Ayin886030"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 109,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 86,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 1815,
+          "like_count": 82565,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 5195
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T01:00:10.000Z",
+        "description": "MADサブ垢。Deep Blue🌊#MIXFITS 所属 hand-drawn +ai + retouch mixed style 本垢 @madox900",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 17,
+                "tag": "MIXFITS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "madox900"
+              }
+            ]
+          }
+        },
+        "id": "1967755187633926145",
+        "name": "mad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072662006646333440/EPqQLLG5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8083,
+          "following_count": 103,
+          "like_count": 1751,
+          "listed_count": 33,
+          "media_count": 166,
+          "tweet_count": 1340
+        },
+        "url": "",
+        "username": "junaida900",
+        "verified": true
+      }
+    ]
+  }
+}

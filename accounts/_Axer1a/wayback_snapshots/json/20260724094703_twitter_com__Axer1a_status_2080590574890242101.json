@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080578555105398786"
+      ],
+      "media_source_tweet_id": [
+        "2080578570816995585"
+      ]
+    },
+    "author_id": "1494669485214633984",
+    "conversation_id": "2080590574890242101",
+    "created_at": "2026-07-24T09:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080590574890242101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1593799138893873152",
+          "start": 3,
+          "username": "Fuugetsu_808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GU7BFV9KoJ",
+          "end": 77,
+          "expanded_url": "https://x.com/Fuugetsu_808/status/2080578570816995585/photo/1",
+          "media_key": "3_2080578555105398786",
+          "start": 54,
+          "url": "https://t.co/GU7BFV9KoJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080590574890242101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080578570816995585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fuugetsu_808: 如果他还在 柬埔寨就不会有那么多电诈了…… 同胞也不会受如此蒙难了…… https://t.co/GU7BFV9KoJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2080578555105398786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-zLChaUAI01Cy.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080578555105398786"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2080578570816995585",
+        "created_at": "2026-07-24T08:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080578570816995585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GU7BFV9KoJ",
+              "end": 59,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2080578570816995585/photo/1",
+              "media_key": "3_2080578555105398786",
+              "start": 36,
+              "url": "https://t.co/GU7BFV9KoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080578570816995585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果他还在 柬埔寨就不会有那么多电诈了…… 同胞也不会受如此蒙难了…… https://t.co/GU7BFV9KoJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080578555105398786"
+          ],
+          "media_source_tweet_id": [
+            "2080578570816995585"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "conversation_id": "2080590574890242101",
+        "created_at": "2026-07-24T09:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080590574890242101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1593799138893873152",
+              "start": 3,
+              "username": "Fuugetsu_808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GU7BFV9KoJ",
+              "end": 77,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2080578570816995585/photo/1",
+              "media_key": "3_2080578555105398786",
+              "start": 54,
+              "url": "https://t.co/GU7BFV9KoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080590574890242101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080578570816995585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fuugetsu_808: 如果他还在 柬埔寨就不会有那么多电诈了…… 同胞也不会受如此蒙难了…… https://t.co/GU7BFV9KoJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 mtx od区。\n恋人@wushibirch8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "wushibirch8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 1820,
+          "like_count": 83479,
+          "listed_count": 1,
+          "media_count": 432,
+          "tweet_count": 5243
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "川なに水上を尋ねけむ物思ふ時の我が身なりけり",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5801,
+          "following_count": 1895,
+          "like_count": 77606,
+          "listed_count": 12,
+          "media_count": 1715,
+          "tweet_count": 12992
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

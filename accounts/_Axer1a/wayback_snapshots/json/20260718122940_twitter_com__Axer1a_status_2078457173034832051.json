@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2078457173034832051",
+    "created_at": "2026-07-18T12:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T13:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078457173034832051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eggtartqwq/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/eggtartqwq/status/2078450506813628887",
+          "start": 9,
+          "url": "https://t.co/lHEHB2mXlP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078457173034832051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078450506813628887",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自我认同是物萌。 https://t.co/lHEHB2mXlP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 476,
+        "media_key": "3_2078450503441383424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgjuITbAAAuSHY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2078457173034832051",
+        "created_at": "2026-07-18T12:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078457173034832051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eggtartqwq/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/eggtartqwq/status/2078450506813628887",
+              "start": 9,
+              "url": "https://t.co/lHEHB2mXlP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078457173034832051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078450506813628887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自我认同是物萌。 https://t.co/lHEHB2mXlP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078450503441383424"
+          ]
+        },
+        "author_id": "1966745903055990786",
+        "conversation_id": "2078450506813628887",
+        "created_at": "2026-07-18T12:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078450506813628887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KLm1uhPXAM",
+              "end": 23,
+              "expanded_url": "https://x.com/eggtartqwq/status/2078450506813628887/photo/1",
+              "media_key": "3_2078450503441383424",
+              "start": 0,
+              "url": "https://t.co/KLm1uhPXAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078450506813628887",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KLm1uhPXAM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 mtx od区。\n恋人@Voidwushi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "Voidwushi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 1815,
+          "like_count": 82733,
+          "listed_count": 1,
+          "media_count": 428,
+          "tweet_count": 5210
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T06:09:08.000Z",
+        "description": "南粤猴家里蹲",
+        "id": "1966745903055990786",
+        "location": "茶楼",
+        "name": "樱川九十九",
+        "pinned_tweet_id": "2075360819131642109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066336254434947074/t98Drz0f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 819,
+          "like_count": 10696,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1057
+        },
+        "url": "",
+        "username": "eggtartqwq",
+        "verified": true
+      }
+    ]
+  }
+}

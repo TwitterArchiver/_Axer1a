@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2078840561000472636",
+    "created_at": "2026-07-19T13:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078840561000472636"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/clem0216/statu…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/clem0216/status/2078829127361249633",
+          "start": 89,
+          "url": "https://t.co/UGOYz1HLDU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078840561000472636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078829127361249633",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好结局：\n你的生活被药物填满了。每日吞服的几粒红白色胶囊成为了你无趣人生中唯一的慰藉。你不知疲倦地滥用着药物，普瑞巴林，愈美片，苯乙胺...不需要考虑代价，毕竟你已经没有未来。 https://t.co/UGOYz1HLDU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2078840561000472636",
+        "created_at": "2026-07-19T13:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078840561000472636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/clem0216/statu…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/clem0216/status/2078829127361249633",
+              "start": 89,
+              "url": "https://t.co/UGOYz1HLDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078840561000472636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078829127361249633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好结局：\n你的生活被药物填满了。每日吞服的几粒红白色胶囊成为了你无趣人生中唯一的慰藉。你不知疲倦地滥用着药物，普瑞巴林，愈美片，苯乙胺...不需要考虑代价，毕竟你已经没有未来。 https://t.co/UGOYz1HLDU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2078829127361249633",
+        "created_at": "2026-07-19T13:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078829127361249633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/todorokidoya1/…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/todorokidoya1/status/2078813979418542526",
+              "start": 89,
+              "url": "https://t.co/MLMlLP5WY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078829127361249633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078813979418542526",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好结局：\n你的生活被药物填满了。每日吞服的几粒红白色胶囊成为了你无趣人生中唯一的慰藉。你不知疲倦地滥用着药物，普瑞巴林，愈美片，苯乙胺...不需要考虑代价，毕竟你已经没有未来。 https://t.co/MLMlLP5WY5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 mtx od区。\n恋人@Voidwushi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "Voidwushi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 1813,
+          "like_count": 82907,
+          "listed_count": 1,
+          "media_count": 429,
+          "tweet_count": 5216
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔👁️👁️一下fo/准高三/休学中/查成分回fo/没回fo请私可以叫我波奇酱，也可以叫我佳研.",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 343,
+          "like_count": 7413,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

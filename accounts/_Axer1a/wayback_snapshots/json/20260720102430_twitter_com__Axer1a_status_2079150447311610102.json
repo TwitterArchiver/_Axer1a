@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2079150447311610102",
+    "created_at": "2026-07-20T10:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079150447311610102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OuO02213882/st…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/OuO02213882/status/2079079623707729934",
+          "start": 105,
+          "url": "https://t.co/2zezwLQ1Ch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079150447311610102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079079623707729934",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有过性行为：❌\n有过男朋友：❌\n有过女朋友：✅\n嗑过药：✅\n喝过酒：✅  \n挂过科：✅  \n去过夜店：❌  \n抽过烟/用过电子烟：❌\n吻过别人：❌\n被留堂：✅\n被课堂赶出去：✅\n考试作弊：✅\n偷偷溜出家门：✅ https://t.co/2zezwLQ1Ch"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2079150447311610102",
+        "created_at": "2026-07-20T10:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079150447311610102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OuO02213882/st…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/OuO02213882/status/2079079623707729934",
+              "start": 105,
+              "url": "https://t.co/2zezwLQ1Ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079150447311610102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079079623707729934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：❌\n有过女朋友：✅\n嗑过药：✅\n喝过酒：✅  \n挂过科：✅  \n去过夜店：❌  \n抽过烟/用过电子烟：❌\n吻过别人：❌\n被留堂：✅\n被课堂赶出去：✅\n考试作弊：✅\n偷偷溜出家门：✅ https://t.co/2zezwLQ1Ch"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2079079623707729934",
+        "created_at": "2026-07-20T05:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079079623707729934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079079623707729934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 583,
+          "like_count": 23,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：✅\n有过女朋友：❌\n嗑过药：❌\n喝过酒：✅（這個月開始的喵\n挂过科：✅（退學了喵\n去过夜店：❌\n抽过烟/用过电子烟：❌\n吻过别人：❌\n被留堂：❌\n被课堂赶出去：❌\n考试作弊：✅（很多次😈\n偷偷溜出家门：❌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 mtx od区。\n恋人@Voidwushi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "Voidwushi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 1814,
+          "like_count": 82982,
+          "listed_count": 1,
+          "media_count": 429,
+          "tweet_count": 5222
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "迷戀天空/mtx(我會焦慮,他不會) /友善/矛盾/忘了很多事/兩個人格共存 (他會保護我) (為什麼我們記憶能互通？) /還在慢慢認識自己喵\n希望自己比大家先離開\n別走好嗎？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "不能說喵 反正不在杭州喵",
+        "name": "粉天藍貓QxQ",
+        "pinned_tweet_id": "2079148774891606211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 2190,
+          "like_count": 48016,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 2191
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "OuO02213882",
+        "verified": true
+      }
+    ]
+  }
+}

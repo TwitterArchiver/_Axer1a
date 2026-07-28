@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2080902570886005084",
+    "created_at": "2026-07-25T06:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080903818527814082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1896904934995656704",
+          "start": 0,
+          "username": "penpunx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "tz86.vip/#/register?cod…",
+          "end": 57,
+          "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+          "start": 34,
+          "status": 200,
+          "title": "EZ-DEMO-TITLE",
+          "unwound_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+          "url": "https://t.co/sKDceSUDj1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080903818527814082",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080902570886005084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@penpunx 自用的这个 30r1000g不限时，速度就还行吧\nhttps://t.co/sKDceSUDj1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2080902570886005084",
+        "created_at": "2026-07-25T06:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080903818527814082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "tz86.vip/#/register?cod…",
+              "end": 57,
+              "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+              "start": 34,
+              "status": 200,
+              "title": "EZ-DEMO-TITLE",
+              "unwound_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+              "url": "https://t.co/sKDceSUDj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080903818527814082",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080902570886005084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx 自用的这个 30r1000g不限时，速度就还行吧\nhttps://t.co/sKDceSUDj1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2080902570886005084",
+        "created_at": "2026-07-25T06:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080902570886005084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080902570886005084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "极需机场推荐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 mtx od区。\n恋人@wushibirch8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "wushibirch8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 1826,
+          "like_count": 83536,
+          "listed_count": 1,
+          "media_count": 432,
+          "tweet_count": 5247
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "形",
+        "name": "trenity",
+        "pinned_tweet_id": "2072618621621375104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 674,
+          "like_count": 15491,
+          "listed_count": 2,
+          "media_count": 904,
+          "tweet_count": 6850
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      }
+    ]
+  }
+}

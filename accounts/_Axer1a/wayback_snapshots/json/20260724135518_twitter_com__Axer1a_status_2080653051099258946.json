@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2080652529499844689",
+    "created_at": "2026-07-24T13:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080653051099258946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2023770080451194880",
+          "start": 0,
+          "username": "seri1131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080653051099258946",
+    "in_reply_to_user_id": "2023770080451194880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080652529499844689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seri1131 吃普瑞打着还挺舒服的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2080652529499844689",
+        "created_at": "2026-07-24T13:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080653051099258946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2023770080451194880",
+              "start": 0,
+              "username": "seri1131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080653051099258946",
+        "in_reply_to_user_id": "2023770080451194880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080652529499844689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seri1131 吃普瑞打着还挺舒服的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023770080451194880",
+        "conversation_id": "2080652529499844689",
+        "created_at": "2026-07-24T13:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080652529499844689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sji1086477/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/sji1086477/status/2080008957058248871",
+              "start": 24,
+              "url": "https://t.co/P0mm1AQVMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080652529499844689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080008957058248871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后打舞萌光顾着听歌了看不见tap touch https://t.co/P0mm1AQVMj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 mtx od区。\n恋人@wushibirch8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "wushibirch8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 1825,
+          "like_count": 83519,
+          "listed_count": 1,
+          "media_count": 433,
+          "tweet_count": 5246
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T14:42:53.000Z",
+        "description": "無言フォロー失礼します。20↑ 歴オタ。精神疾患や薬やmaimaiDXも呟いてる。頭が非常識だ｡\n舞萌w3，有0个会打的谱和配置。出勤≈上刑。\n窝喜欢秦桧，喜欢苏我入鹿，喜欢花山天皇，喜欢和泉式部……还喜欢中日新石器时代的一切。\nmastodon：https://t.co/jbn7R9vGu5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "c7.io/@hanaaki",
+                "end": 147,
+                "expanded_url": "https://c7.io/@hanaaki",
+                "start": 124,
+                "url": "https://t.co/jbn7R9vGu5"
+              }
+            ]
+          }
+        },
+        "id": "2023770080451194880",
+        "name": "残鸦外",
+        "pinned_tweet_id": "2055302695154765825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064003082967777280/yAoEUNSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 84,
+          "like_count": 693,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 513
+        },
+        "url": "",
+        "username": "seri1131",
+        "verified": false
+      }
+    ]
+  }
+}

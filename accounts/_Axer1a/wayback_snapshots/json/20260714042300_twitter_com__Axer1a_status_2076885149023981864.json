@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2076634754963923035",
+    "created_at": "2026-07-14T04:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076885149023981864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1521308732805849089",
+          "start": 0,
+          "username": "tianzige4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076885149023981864",
+    "in_reply_to_user_id": "1521308732805849089",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076634754963923035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianzige4 非鲫背"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13633,
+        "height": 768,
+        "media_key": "7_2076634652841046016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076634652841046016/pu/img/bH4Grz4gDRZJB-1l.jpg",
+        "public_metrics": {
+          "view_count": 133712
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076634652841046016/pu/vid/avc1/320x426/glBVx3IZuQx6MxvL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076634652841046016/pu/vid/avc1/480x640/Udw2eiVZoTgXLX5J.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076634652841046016/pu/vid/avc1/576x768/wj2Zv_TvoxvJg11l.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076634652841046016/pu/pl/3kRvuh3Tbocjn8sk.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2076634754963923035",
+        "created_at": "2026-07-14T04:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076885149023981864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1521308732805849089",
+              "start": 0,
+              "username": "tianzige4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076885149023981864",
+        "in_reply_to_user_id": "1521308732805849089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076634754963923035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianzige4 非鲫背"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076634652841046016"
+          ]
+        },
+        "author_id": "1521308732805849089",
+        "conversation_id": "2076634754963923035",
+        "created_at": "2026-07-13T11:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076634754963923035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/afcBwEznOo",
+              "end": 44,
+              "expanded_url": "https://x.com/tianzige4/status/2076634754963923035/video/1",
+              "media_key": "7_2076634652841046016",
+              "start": 21,
+              "url": "https://t.co/afcBwEznOo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076634754963923035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 228518,
+          "like_count": 319,
+          "quote_count": 6,
+          "reply_count": 62,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "苏州鲫鱼背… \n这面不用梳子梳，也很整齐 https://t.co/afcBwEznOo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？ 航天/观鸟/音游 enby any pronoun 阴湿自闭地雷精神病药蛆毒虫促智批 一般通过oder 混沌中立 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️ 最爱的@Ayin886030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Ayin886030"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 109,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 86,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1819,
+          "like_count": 82378,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 5189
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T02:01:00.000Z",
+        "description": "野生时评人\n我的优兔频道：https://t.co/ZdSthFa6rJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@user-dezhou?s…",
+                "end": 36,
+                "expanded_url": "https://youtube.com/@user-dezhou?si=B0XX2E-_OGkQZt0o",
+                "start": 13,
+                "url": "https://t.co/ZdSthFa6rJ"
+              }
+            ]
+          }
+        },
+        "id": "1521308732805849089",
+        "location": "山东",
+        "name": "田字格",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760517663045124096/HXQW4WQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84674,
+          "following_count": 10854,
+          "like_count": 111943,
+          "listed_count": 218,
+          "media_count": 18085,
+          "tweet_count": 34038
+        },
+        "url": "",
+        "username": "tianzige4",
+        "verified": true
+      }
+    ]
+  }
+}
