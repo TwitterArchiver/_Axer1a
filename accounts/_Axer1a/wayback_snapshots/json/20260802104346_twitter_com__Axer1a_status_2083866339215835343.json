@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2083789341122564400",
+    "created_at": "2026-08-02T10:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083866339215835343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1812819132016107520",
+          "start": 0,
+          "username": "Hitomura_sub1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083866339215835343",
+    "in_reply_to_user_id": "1812819132016107520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083789341122564400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hitomura_sub1 这个词没人日常使用吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3141,
+        "media_key": "3_2083789325708496896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsbWfGbEAAICT3.jpg",
+        "width": 2781
+      },
+      {
+        "height": 882,
+        "media_key": "3_2083789334550032384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsbXACaMAAPw3R.jpg",
+        "width": 3720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2083789341122564400",
+        "created_at": "2026-08-02T10:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083866339215835343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1812819132016107520",
+              "start": 0,
+              "username": "Hitomura_sub1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083866339215835343",
+        "in_reply_to_user_id": "1812819132016107520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083789341122564400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hitomura_sub1 这个词没人日常使用吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083789325708496896",
+            "3_2083789334550032384"
+          ]
+        },
+        "author_id": "1812819132016107520",
+        "conversation_id": "2083789341122564400",
+        "created_at": "2026-08-02T05:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083789341122564400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5aKRSfRJn",
+              "end": 60,
+              "expanded_url": "https://x.com/Hitomura_sub1/status/2083789341122564400/photo/1",
+              "media_key": "3_2083789325708496896",
+              "start": 37,
+              "url": "https://t.co/S5aKRSfRJn"
+            },
+            {
+              "display_url": "pic.x.com/S5aKRSfRJn",
+              "end": 60,
+              "expanded_url": "https://x.com/Hitomura_sub1/status/2083789341122564400/photo/1",
+              "media_key": "3_2083789334550032384",
+              "start": 37,
+              "url": "https://t.co/S5aKRSfRJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083789341122564400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 439,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@同胞们\n请问，“做饭”的场景中不会使用“劳驾”这个词汇吗\n我有点困惑了 https://t.co/S5aKRSfRJn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 1830,
+          "like_count": 84459,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 5313
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T11:59:10.000Z",
+        "description": "@Hitomura_sanのサブ垢です。本垢凍結されました\n絡んで下さるととても喜びます\n鍵→@ry7b_12\n魔女の旅々が好き。特にイレイナ様が大好きです！\n在日华人(nationality:🇯🇵)，愿中日友好🇯🇵🤝🇨🇳 Actualmente estudio español.🇪🇸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "Hitomura_san"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "ry7b_12"
+              }
+            ]
+          }
+        },
+        "id": "1812819132016107520",
+        "location": "La tierra Japoneses",
+        "name": "人村🇯🇵🇨🇳",
+        "pinned_tweet_id": "2040404739175883081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077712176006287360/0pobYGI8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 326,
+          "like_count": 12731,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 4451
+        },
+        "url": "",
+        "username": "Hitomura_sub1",
+        "verified": false
+      }
+    ]
+  }
+}

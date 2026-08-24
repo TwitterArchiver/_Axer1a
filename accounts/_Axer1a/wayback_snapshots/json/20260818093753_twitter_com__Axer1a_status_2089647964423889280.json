@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2089647964423889280",
+    "created_at": "2026-08-18T09:37:53.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T10:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089647964423889280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yuki283113/sta…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/Yuki283113/status/2089646774004674873",
+          "start": 88,
+          "url": "https://t.co/c57ff5sCKL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089647964423889280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089646774004674873",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我突然好崩溃，我个穷逼，我没有学历，也没有什么手艺，我以后咋活呀，我已经想到我以后自己在破烂的出租屋里面一个月拿着不到3000的工资苟活，我天呐，我肯定会自杀的，我实在受不了 https://t.co/c57ff5sCKL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2089647964423889280",
+        "created_at": "2026-08-18T09:37:53.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089647964423889280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yuki283113/sta…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/Yuki283113/status/2089646774004674873",
+              "start": 88,
+              "url": "https://t.co/c57ff5sCKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089647964423889280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089646774004674873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我突然好崩溃，我个穷逼，我没有学历，也没有什么手艺，我以后咋活呀，我已经想到我以后自己在破烂的出租屋里面一个月拿着不到3000的工资苟活，我天呐，我肯定会自杀的，我实在受不了 https://t.co/c57ff5sCKL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037817579448807424",
+        "conversation_id": "2089646774004674873",
+        "created_at": "2026-08-18T09:33:09.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089646774004674873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_081203_/statu…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/_081203_/status/2089626523364167982",
+              "start": 88,
+              "url": "https://t.co/M4o4VU6TsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089646774004674873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089626523364167982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我突然好崩溃，我个穷逼，我没有学历，也没有什么手艺，我以后咋活呀，我已经想到我以后自己在破烂的出租屋里面一个月拿着不到3000的工资苟活，我天呐，我肯定会自杀的，我实在受不了 https://t.co/M4o4VU6TsX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2089647964423889280",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 1892,
+          "like_count": 86426,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 5411
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T09:02:43.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n\n互fo回归，请，会微差成分，全友好\n\n这是第几个了。?",
+        "id": "2037817579448807424",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089647552417214902",
+        "name": "岐哥，梦想跪了。4.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037817579448807424/1786884389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084998836246700033/-ARs9g6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 278,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "Yuki283113",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

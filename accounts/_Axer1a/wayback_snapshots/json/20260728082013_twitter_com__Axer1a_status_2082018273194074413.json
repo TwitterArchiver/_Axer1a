@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2081487862856548473",
+    "created_at": "2026-07-28T08:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082018273194074413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1809604484173295620",
+          "start": 0,
+          "username": "for_4ngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082018273194074413",
+    "in_reply_to_user_id": "1809604484173295620",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081487862856548473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@for_4ngel 我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2081487862856548473",
+        "created_at": "2026-07-28T08:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082018273194074413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082018273194074413",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081487862856548473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel 我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2081487862856548473",
+        "created_at": "2026-07-26T21:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081487862856548473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081487862856548473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6560,
+          "like_count": 148,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "为什么oder这么短命\n没学药理的时候：随便联用，剂量凭感觉，老实口服\n了解一点药理后：理论上这样联用肯定不会死，理论上这个剂量还不是我的极限，这个理论可以注射，那个理论可以鼻吸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1835,
+          "like_count": 83888,
+          "listed_count": 1,
+          "media_count": 433,
+          "tweet_count": 5281
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "小号@for_4ngel_2 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D |pdw编辑 |学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "for_4ngel_2"
+              }
+            ]
+          }
+        },
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 492,
+          "like_count": 403,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 753
+        },
+        "url": "",
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

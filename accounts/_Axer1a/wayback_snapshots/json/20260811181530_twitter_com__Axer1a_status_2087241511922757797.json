@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2087230266200744379",
+    "created_at": "2026-08-11T18:15:30.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T19:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087241511922757797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1721420351132028928",
+          "start": 0,
+          "username": "3letter_"
+        },
+        {
+          "end": 18,
+          "id": "370743613",
+          "start": 10,
+          "username": "guy_kun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087241511922757797",
+    "in_reply_to_user_id": "1721420351132028928",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087230266200744379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3letter_ @guy_kun"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2087230263482884096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdU3bNXoAAsPxc.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2087230266200744379",
+        "created_at": "2026-08-11T18:15:30.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T19:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087241511922757797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1721420351132028928",
+              "start": 0,
+              "username": "3letter_"
+            },
+            {
+              "end": 18,
+              "id": "370743613",
+              "start": 10,
+              "username": "guy_kun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087241511922757797",
+        "in_reply_to_user_id": "1721420351132028928",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087230266200744379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3letter_ @guy_kun"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087230263482884096"
+          ]
+        },
+        "author_id": "1721420351132028928",
+        "conversation_id": "2087230266200744379",
+        "created_at": "2026-08-11T17:30:48.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087230266200744379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SQpA1STDtS",
+              "end": 27,
+              "expanded_url": "https://x.com/3letter_/status/2087230266200744379/photo/1",
+              "media_key": "3_2087230263482884096",
+              "start": 4,
+              "url": "https://t.co/SQpA1STDtS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087230266200744379",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2087230263482884096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 977,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Guy https://t.co/SQpA1STDtS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2087241511922757797",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1849,
+          "like_count": 85892,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 5387
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-06T06:52:56.000Z",
+        "description": "Follow me and I’ll reply with three special letters just for you! ✨ 4 letters ver. @4letter_ My other accounts ▶︎ https://t.co/Y78fHbaGDZ By KAEDE Games",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "4letter_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tr.ee/kae",
+                "end": 137,
+                "expanded_url": "https://tr.ee/kae",
+                "start": 114,
+                "url": "https://t.co/Y78fHbaGDZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/search?q=from%…",
+                "end": 23,
+                "expanded_url": "https://x.com/search?q=from%3A3letter_%20min_retweets%3A10%20min_faves%3A100",
+                "start": 0,
+                "url": "https://t.co/F0ryLCmOc2"
+              }
+            ]
+          }
+        },
+        "id": "1721420351132028928",
+        "is_identity_verified": false,
+        "location": "♡ 1K+ likes posts ⤵︎ 🌷🍀🌹🌻",
+        "most_recent_tweet_id": "2087237771337335221",
+        "name": "3 random letters every 10 mins",
+        "pinned_tweet_id": "2085916520782123198",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721420351132028928/1751339361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998632692984983560/I-R2b9Et_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104740,
+          "following_count": 4064,
+          "like_count": 9290,
+          "listed_count": 64,
+          "media_count": 133378,
+          "tweet_count": 146283
+        },
+        "url": "https://t.co/F0ryLCmOc2",
+        "username": "3letter_",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-09-09T15:14:21.000Z",
+        "description": "Director ・ Producer ・ Art Director・等 ＠ lowiro.",
+        "id": "370743613",
+        "is_identity_verified": false,
+        "location": "日本 東京",
+        "most_recent_tweet_id": "2087205777782214807",
+        "name": "Guy",
+        "pinned_tweet_id": "2008088034181595239",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/370743613/1763868138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802341836100415488/8murnzH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26413,
+          "following_count": 1160,
+          "like_count": 57531,
+          "listed_count": 48,
+          "media_count": 6280,
+          "tweet_count": 43664
+        },
+        "url": "",
+        "username": "guy_kun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2084626929244836251",
+    "created_at": "2026-08-04T13:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084626929244836251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041449281677045760",
+          "start": 3,
+          "username": "Sorcerer1311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084626929244836251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084613922011967837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sorcerer1311: 看到有推u发了瑞卢戈利并且查找了资料，感觉潜力非常大\n口服GnRH类药物相比于抑制受体有明显效果优势，用药四天就能达到去势水平\n标明的药物价格并不比亮丙瑞林或者戈舍瑞林便宜，低剂量的抑制效果也没能找到资料，不过有巨大的减药潜力\n可能以后200…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2084613899257843712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4JS-8bEAAurLl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2084626929244836251",
+        "created_at": "2026-08-04T13:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084626929244836251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041449281677045760",
+              "start": 3,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084626929244836251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084613922011967837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sorcerer1311: 看到有推u发了瑞卢戈利并且查找了资料，感觉潜力非常大\n口服GnRH类药物相比于抑制受体有明显效果优势，用药四天就能达到去势水平\n标明的药物价格并不比亮丙瑞林或者戈舍瑞林便宜，低剂量的抑制效果也没能找到资料，不过有巨大的减药潜力\n可能以后200…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084613899257843712"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "conversation_id": "2084613922011967837",
+        "created_at": "2026-08-04T12:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084613922011967837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WounZVQGwe",
+              "end": 168,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2084613922011967837/photo/1",
+              "media_key": "3_2084613899257843712",
+              "start": 145,
+              "url": "https://t.co/WounZVQGwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084613922011967837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 80,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看到有推u发了瑞卢戈利并且查找了资料，感觉潜力非常大\n口服GnRH类药物相比于抑制受体有明显效果优势，用药四天就能达到去势水平\n标明的药物价格并不比亮丙瑞林或者戈舍瑞林便宜，低剂量的抑制效果也没能找到资料，不过有巨大的减药潜力\n可能以后200一个月的高质抗雄不是梦想，希望有更多社群资料吧 https://t.co/WounZVQGwe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 1838,
+          "like_count": 84688,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 5327
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 967,
+          "like_count": 2066,
+          "listed_count": 3,
+          "media_count": 453,
+          "tweet_count": 3336
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      }
+    ]
+  }
+}

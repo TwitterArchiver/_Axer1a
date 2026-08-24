@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2082431962019779039",
+    "created_at": "2026-07-29T11:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082431962019779039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Noxy_Lanota/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Noxy_Lanota/status/2082375576216850832",
+          "start": 20,
+          "url": "https://t.co/ODBnhaGMFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082431962019779039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082375576216850832",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "音游都喜欢翻译歌名是何意味 观感很差啊 https://t.co/ODBnhaGMFE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2079899553990606848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1Jn-QagAAqaoF.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2082431962019779039",
+        "created_at": "2026-07-29T11:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082431962019779039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Noxy_Lanota/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Noxy_Lanota/status/2082375576216850832",
+              "start": 20,
+              "url": "https://t.co/ODBnhaGMFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082431962019779039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082375576216850832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "音游都喜欢翻译歌名是何意味 观感很差啊 https://t.co/ODBnhaGMFE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079899553990606848"
+          ]
+        },
+        "author_id": "727516115769823232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2082375576216850832",
+        "created_at": "2026-07-29T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082375576216850832"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 180,
+              "start": 173,
+              "tag": "Lanota"
+            },
+            {
+              "end": 192,
+              "start": 181,
+              "tag": "LanotaGame"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0wJnlc1CN2",
+              "end": 216,
+              "expanded_url": "https://x.com/Noxy_Lanota/status/2082375576216850832/photo/1",
+              "media_key": "3_2079899553990606848",
+              "start": 193,
+              "url": "https://t.co/0wJnlc1CN2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082375576216850832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10310,
+          "like_count": 158,
+          "quote_count": 16,
+          "reply_count": 2,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "📢 Lanota 4.0 予告\n調律計画「PinocchioP セレクション」に、特別な譜面演出付きの3曲が登場！\n🎵 God-ish\n🎵 Anonymous M\n🎵 Magical Girl and Chocolate\n\n仮面の下の本心を見抜けるか？\n本チャプターの購入で、ホームキャラクター「匿名者」も獲得！ \n7月30日（木）配信予定！ \n#Lanota #LanotaGame https://t.co/0wJnlc1CN2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 1834,
+          "like_count": 84061,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 5292
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-03T15:12:13.000Z",
+        "description": "iOS / Android用絵本風ロールプレイングリズムゲーム「Lanota」の公式ツイッターアカウントです。お問い合わせは service@noxygames.com までお願いします。 #Lanota #LanotaGame English account @Noxy_Lanota_EN",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 102,
+                "start": 95,
+                "tag": "Lanota"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "tag": "LanotaGame"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 146,
+                "start": 131,
+                "username": "Noxy_Lanota_EN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "noxygames.com/lanota/store-r…",
+                "end": 23,
+                "expanded_url": "https://noxygames.com/lanota/store-redirection.html",
+                "start": 0,
+                "url": "https://t.co/AB3u1AGzr0"
+              }
+            ]
+          }
+        },
+        "id": "727516115769823232",
+        "location": "台湾",
+        "name": "Lanota🎶",
+        "pinned_tweet_id": "2081318611633791073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1011947646271885313/YitvV71__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28118,
+          "following_count": 203,
+          "like_count": 4939,
+          "listed_count": 222,
+          "media_count": 907,
+          "tweet_count": 3236
+        },
+        "url": "https://t.co/AB3u1AGzr0",
+        "username": "Noxy_Lanota",
+        "verified": false
+      }
+    ]
+  }
+}

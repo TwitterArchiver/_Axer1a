@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2089012116233883812",
+    "created_at": "2026-08-16T15:31:15.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T16:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089012116233883812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 57,
+          "id": "868831876315848705",
+          "start": 48,
+          "username": "idr_labs"
+        }
+      ],
+      "urls": [
+        {
+          "description": "弥子猫测试",
+          "display_url": "idrlabs.com/cn/yani-neko/4…",
+          "end": 44,
+          "expanded_url": "https://www.idrlabs.com/cn/yani-neko/45-75-70-70-40-45-50/result.php",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2089012117500493824/XCg1cs2u?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2089012117500493824/XCg1cs2u?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 21,
+          "status": 200,
+          "title": "弥子猫测试: 我最像 益子 (75%)。",
+          "unwound_url": "https://www.idrlabs.com/cn/yani-neko/45-75-70-70-40-45-50/result.php",
+          "url": "https://t.co/8nVvMGd7Ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089012116233883812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "弥子猫测试: 我最像 益子 (75%)。 https://t.co/8nVvMGd7Ku 通过 @idr_labs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2089012116233883812",
+        "created_at": "2026-08-16T15:31:15.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089012116233883812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "868831876315848705",
+              "start": 48,
+              "username": "idr_labs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "弥子猫测试",
+              "display_url": "idrlabs.com/cn/yani-neko/4…",
+              "end": 44,
+              "expanded_url": "https://www.idrlabs.com/cn/yani-neko/45-75-70-70-40-45-50/result.php",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2089012117500493824/XCg1cs2u?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2089012117500493824/XCg1cs2u?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "弥子猫测试: 我最像 益子 (75%)。",
+              "unwound_url": "https://www.idrlabs.com/cn/yani-neko/45-75-70-70-40-45-50/result.php",
+              "url": "https://t.co/8nVvMGd7Ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089012116233883812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "弥子猫测试: 我最像 益子 (75%)。 https://t.co/8nVvMGd7Ku 通过 @idr_labs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2089012116233883812",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1849,
+          "like_count": 86133,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 5403
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-28T14:10:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "idrlabs.com",
+                "end": 23,
+                "expanded_url": "https://idrlabs.com/",
+                "start": 0,
+                "url": "https://t.co/RRNJ3gvQIb"
+              }
+            ]
+          }
+        },
+        "id": "868831876315848705",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088413006296133744",
+        "name": "IDRlabs",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/868831876315848705/1519302772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966651156813504512/DxWIg43W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9609,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 39,
+          "media_count": 19,
+          "tweet_count": 1284
+        },
+        "url": "https://t.co/RRNJ3gvQIb",
+        "username": "idr_labs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

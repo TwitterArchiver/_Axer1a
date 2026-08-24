@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2087889423124042220",
+    "created_at": "2026-08-13T14:23:28.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087907897451905244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1259404745757741057",
+          "start": 0,
+          "username": "Kongzhu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087907897451905244",
+    "in_reply_to_user_id": "1259404745757741057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087889423124042220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kongzhu123 何物质"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087889423124042220].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087889423124042220",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087889423124042220"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2087889423124042220",
+        "created_at": "2026-08-13T14:23:28.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087907897451905244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1259404745757741057",
+              "start": 0,
+              "username": "Kongzhu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087907897451905244",
+        "in_reply_to_user_id": "1259404745757741057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087889423124042220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kongzhu123 何物质"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2087907897451905244",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1858,
+          "like_count": 85995,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 5392
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-10T08:47:58.000Z",
+        "description": "不会社交，画画很差，推特多用来看神图，点赞+转推bot，如果有给您添麻烦的话非常抱歉!\nqueer ta/they demisexual greyromantic ND 双相",
+        "id": "1259404745757741057",
+        "is_identity_verified": false,
+        "location": "👁",
+        "most_recent_tweet_id": "1940040969497526548",
+        "name": "无色潮间带",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1259404745757741057/1625986682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429310179527389191/f_-o3X_5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 2422,
+          "like_count": 18915,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 2254
+        },
+        "url": "",
+        "username": "Kongzhu123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

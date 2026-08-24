@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2090450992752128109",
+    "created_at": "2026-08-22T02:11:47.000Z",
+    "display_text_range": [
+      30,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T03:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090985252340764702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1940729007496179712",
+          "start": 0,
+          "username": "Rinkawaiiuwu"
+        },
+        {
+          "end": 29,
+          "id": "1688556439865090048",
+          "start": 14,
+          "username": "ysn42231385235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090985252340764702",
+    "in_reply_to_user_id": "1940729007496179712",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090450992752128109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinkawaiiuwu @ysn42231385235 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2090450992752128109",
+        "created_at": "2026-08-22T02:11:47.000Z",
+        "display_text_range": [
+          30,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T03:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090985252340764702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1940729007496179712",
+              "start": 0,
+              "username": "Rinkawaiiuwu"
+            },
+            {
+              "end": 29,
+              "id": "1688556439865090048",
+              "start": 14,
+              "username": "ysn42231385235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090985252340764702",
+        "in_reply_to_user_id": "1940729007496179712",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090450992752128109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinkawaiiuwu @ysn42231385235 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940729007496179712",
+        "conversation_id": "2090450992752128109",
+        "created_at": "2026-08-20T14:48:50.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090450992752128109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090450992752128109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 673,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "60fo了虽然离100fo很远但是想搞个抽奖fo我➕点赞这条即可抽！\n一等奖30r\n一等奖20r*2\n三等奖10*3\n35转或者25号开奖 使用ai抽 有人来嘛…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2090985252340764702",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 1925,
+          "like_count": 86715,
+          "listed_count": 0,
+          "media_count": 439,
+          "tweet_count": 5433
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-03T11:07:24.000Z",
+        "description": "病み垢 地雷オタク \n查成分回fo\n⚠️：精神不安定/💊/🩸\n攒钱中.ing",
+        "id": "1940729007496179712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090932452814623220",
+        "name": "Rin",
+        "pinned_tweet_id": "2072736354983989454",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940729007496179712/1782834651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071984770163068928/oTBa4kFZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 50,
+          "like_count": 3764,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "Rinkawaiiuwu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-07T14:23:45.000Z",
+        "description": "请称呼我月誓就好！                                                            \n男的，od狗音游狗光棒狗。我没有啥道德感只想操逼，上网只是性压抑和想冲浪还有发泄情绪。本质上是一个开心的傻子",
+        "id": "1688556439865090048",
+        "is_identity_verified": false,
+        "location": "想认识更多朋友 互fo欢迎",
+        "most_recent_tweet_id": "2090929440733933776",
+        "name": "ミエナイ",
+        "pinned_tweet_id": "2026775867977007254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688556439865090048/1777215617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062582170120855552/o_wJwRLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 592,
+          "like_count": 8956,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 3260
+        },
+        "url": "",
+        "username": "ysn42231385235",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

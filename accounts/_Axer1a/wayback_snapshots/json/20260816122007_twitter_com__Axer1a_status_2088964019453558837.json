@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2088964019453558837",
+    "created_at": "2026-08-16T12:20:07.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088964019453558837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1169174984389885952",
+          "start": 3,
+          "username": "Angel_SaveUsAll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088964019453558837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088953580321714598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angel_SaveUsAll: 姐妹们，我最近好奇就进了一个什么音游群，你们懂的，就是里面有很多宅男的那种。但是我没有想到他们那么下头，今天在群里面讨论自己的生殖器，一天到晚说什么想鸟15鸟14的。啊，果然是群国男，想都只敢想自己的鸟最多15cm，多帮家人们避雷啊，以…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 625,
+        "media_key": "3_2088953569387151360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP10NB-bAAALJu7.jpg",
+        "width": 618
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2088964019453558837",
+        "created_at": "2026-08-16T12:20:07.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088964019453558837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1169174984389885952",
+              "start": 3,
+              "username": "Angel_SaveUsAll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088964019453558837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088953580321714598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angel_SaveUsAll: 姐妹们，我最近好奇就进了一个什么音游群，你们懂的，就是里面有很多宅男的那种。但是我没有想到他们那么下头，今天在群里面讨论自己的生殖器，一天到晚说什么想鸟15鸟14的。啊，果然是群国男，想都只敢想自己的鸟最多15cm，多帮家人们避雷啊，以…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088953569387151360"
+          ]
+        },
+        "author_id": "1169174984389885952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088953580321714598",
+        "created_at": "2026-08-16T11:38:39.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088953580321714598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SlV6f3Lmeq",
+              "end": 168,
+              "expanded_url": "https://x.com/Angel_SaveUsAll/status/2088953580321714598/photo/1",
+              "media_key": "3_2088953569387151360",
+              "start": 145,
+              "url": "https://t.co/SlV6f3Lmeq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088953580321714598",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088953569387151360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "姐妹们，我最近好奇就进了一个什么音游群，你们懂的，就是里面有很多宅男的那种。但是我没有想到他们那么下头，今天在群里面讨论自己的生殖器，一天到晚说什么想鸟15鸟14的。啊，果然是群国男，想都只敢想自己的鸟最多15cm，多帮家人们避雷啊，以后找男票一定不要找在什么舞萌音游群的。家人们太恶心了，避雷一个玩叫舞萌DX和中二节奏的普信男群体，天天在群里说自己鸟14鸟14+，还说自己鸟特大还跳舞，还在群里发自己日的50个b图片，更恶心的是他们连自己的儿子都不放过还月儿子日儿子，我打出这段话的时候手都在抖……."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "姐妹们，我最近好奇就进了一个什么音游群，你们懂的，就是里面有很多宅男的那种。但是我没有想到他们那么下头，今天在群里面讨论自己的生殖器，一天到晚说什么想鸟15鸟14的。啊，果然是群国男，想都只敢想自己的鸟最多15cm，多帮家人们避雷啊，以后找男票一定不要找在什么舞萌音游群的。家人们太恶心了 https://t.co/SlV6f3Lmeq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2088964019453558837",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1851,
+          "like_count": 86103,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 5399
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-04T09:07:06.000Z",
+        "description": "救贖天使 含糖 新人画师，阴湿蕾蕾 只是会吃神秘小药片💊💊噶手手🩸🔪 情绪不稳定/双相/焦虑症 舞萌 经常碎碎念EN&CN OK 日本語苦手 欢迎同类找我聊天贴贴🍥老婆@linwei130",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "linwei130"
+              }
+            ]
+          }
+        },
+        "id": "1169174984389885952",
+        "is_identity_verified": false,
+        "location": "New York, NY",
+        "most_recent_tweet_id": "2088957691255484889",
+        "name": "小救「回归」",
+        "pinned_tweet_id": "2043782475936120911",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1169174984389885952/1783508953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058870609170616320/JW0PIo2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 663,
+          "like_count": 18045,
+          "listed_count": 5,
+          "media_count": 666,
+          "tweet_count": 5628
+        },
+        "url": "",
+        "username": "Angel_SaveUsAll",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

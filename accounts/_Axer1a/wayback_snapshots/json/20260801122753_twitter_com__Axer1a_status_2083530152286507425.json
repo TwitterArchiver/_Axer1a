@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2083530152286507425",
+    "created_at": "2026-08-01T12:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083530152286507425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Asakawatsubaki…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/Asakawatsubaki2/status/2083515787835502899",
+          "start": 39,
+          "url": "https://t.co/5Dckey4mAN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083530152286507425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083515787835502899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "8月到现在一次药都没嗑，看来是戒成功了👏🏻👏🏻👏🏻自律的感觉真好👍🏻👍🏻👍🏻 https://t.co/5Dckey4mAN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2083530152286507425",
+        "created_at": "2026-08-01T12:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083530152286507425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Asakawatsubaki…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Asakawatsubaki2/status/2083515787835502899",
+              "start": 39,
+              "url": "https://t.co/5Dckey4mAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083530152286507425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083515787835502899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8月到现在一次药都没嗑，看来是戒成功了👏🏻👏🏻👏🏻自律的感觉真好👍🏻👍🏻👍🏻 https://t.co/5Dckey4mAN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071537279651528704",
+        "conversation_id": "2083515787835502899",
+        "created_at": "2026-08-01T11:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083515787835502899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuki_youji/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/yuki_youji/status/2083353467218014618",
+              "start": 39,
+              "url": "https://t.co/iRPS7tA1vJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083515787835502899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083353467218014618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8月到现在一次药都没嗑，看来是戒成功了👏🏻👏🏻👏🏻自律的感觉真好👍🏻👍🏻👍🏻 https://t.co/iRPS7tA1vJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 1827,
+          "like_count": 84329,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 5305
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-29T10:13:13.000Z",
+        "description": "@AsakawaTsubaki转生，米娜都来找我玩啊\n對不起，我只是在泥潭掙扎的可憐小孩\n无言直fo抱歉，查成分回fo。我有点精日，下辈子希望是日本人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "AsakawaTsubaki"
+              }
+            ]
+          }
+        },
+        "id": "2071537279651528704",
+        "location": "天安门广场",
+        "name": "浅な川椿二世（寻回互关ing）",
+        "pinned_tweet_id": "2074340094396502424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071538064074395648/bon4EJXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 86,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "Asakawatsubaki2",
+        "verified": true
+      }
+    ]
+  }
+}

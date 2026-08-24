@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2086613361291345968",
+    "created_at": "2026-08-10T00:39:27.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T01:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086613361291345968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1252463831185371136",
+          "start": 3,
+          "username": "Dadadajie01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086613361291345968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084287660898873566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dadadajie01: 我小时候觉得人妖、妓女、娘炮、变态、同性恋、异装癖、精神病、自闭症、多动症、抑郁症、想不开心理有问题、不上学、休学、辍学听起来都好恐怖\n现在我长大了\n长大了发现这些人都是我朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2086613361291345968",
+        "created_at": "2026-08-10T00:39:27.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T01:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086613361291345968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1252463831185371136",
+              "start": 3,
+              "username": "Dadadajie01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086613361291345968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084287660898873566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dadadajie01: 我小时候觉得人妖、妓女、娘炮、变态、同性恋、异装癖、精神病、自闭症、多动症、抑郁症、想不开心理有问题、不上学、休学、辍学听起来都好恐怖\n现在我长大了\n长大了发现这些人都是我朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252463831185371136",
+        "conversation_id": "2084287660898873566",
+        "created_at": "2026-08-03T14:37:57.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084287660898873566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084287660898873566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 69214,
+          "like_count": 1786,
+          "quote_count": 14,
+          "reply_count": 85,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "我小时候觉得人妖、妓女、娘炮、变态、同性恋、异装癖、精神病、自闭症、多动症、抑郁症、想不开心理有问题、不上学、休学、辍学听起来都好恐怖\n现在我长大了\n长大了发现这些人都是我朋友"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2086613361291345968",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 1851,
+          "like_count": 85661,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 5367
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-21T05:07:10.000Z",
+        "description": "こんにちは。私はBG4JIE、20代前半の大学生で、N2合格証明書取った、今N1に向けて勉強中、趣味はACGNとアマチュア無線とairsoftと撮影で、面白いものが好き、よろしくお願いします😸",
+        "id": "1252463831185371136",
+        "is_identity_verified": false,
+        "location": "距您1.6km",
+        "most_recent_tweet_id": "2086117888684118215",
+        "name": "Ziergaixv🐀🐂🐅🐇🐉🐍🐎🐑🐒🐓🐕🐖",
+        "pinned_tweet_id": "2055682513448718735",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252463831185371136/1757637218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809050334725353473/GTm1-qUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 2350,
+          "like_count": 43485,
+          "listed_count": 8,
+          "media_count": 1466,
+          "tweet_count": 8598
+        },
+        "url": "",
+        "username": "Dadadajie01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

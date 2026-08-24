@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2085561673344336232",
+    "created_at": "2026-08-07T03:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085561673344336232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Mintink3/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Mintink3/status/2085379326988714329",
+          "start": 15,
+          "url": "https://t.co/7nnYrb4O45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085561673344336232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085379326988714329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种垃圾桶能不能刷在我家楼下 https://t.co/7nnYrb4O45"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085379319698960384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDBcUSaMAAV9bt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2085561673344336232",
+        "created_at": "2026-08-07T03:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085561673344336232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mintink3/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Mintink3/status/2085379326988714329",
+              "start": 15,
+              "url": "https://t.co/7nnYrb4O45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085561673344336232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085379326988714329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种垃圾桶能不能刷在我家楼下 https://t.co/7nnYrb4O45"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085379319698960384"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2085379326988714329",
+        "created_at": "2026-08-06T14:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085379326988714329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLBRDCBewA",
+              "end": 139,
+              "expanded_url": "https://x.com/Mintink3/status/2085379326988714329/photo/1",
+              "media_key": "3_2085379319698960384",
+              "start": 116,
+              "url": "https://t.co/YLBRDCBewA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085379326988714329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9054,
+          "like_count": 91,
+          "quote_count": 7,
+          "reply_count": 31,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我发现小区的有害垃圾桶里的药盒子里面都不是空的 ，而且这些药基本都没有过期 \n！如果我想省点钱 ，可以直接回收里面的舍曲林 奥美拉挫 （抗胃酸）左西替利嗪（治疗过敏）甚至还有阿普唑仑  我打算等晚点再去翻翻，底下说不定还有更好的药 https://t.co/YLBRDCBewA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 1844,
+          "like_count": 85159,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 5359
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 844,
+          "like_count": 6395,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 974
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2084971016636493837",
+    "created_at": "2026-08-05T13:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T14:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084997248459719091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1568748618760482816",
+          "start": 0,
+          "username": "tene1la"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084997248459719091",
+    "in_reply_to_user_id": "1568748618760482816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084971016636493837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tene1la 跟你差不多高数还是60整老师给捞上来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2084971016636493837",
+        "created_at": "2026-08-05T13:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084997248459719091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1568748618760482816",
+              "start": 0,
+              "username": "tene1la"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084997248459719091",
+        "in_reply_to_user_id": "1568748618760482816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084971016636493837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tene1la 跟你差不多高数还是60整老师给捞上来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568748618760482816",
+        "conversation_id": "2084971016636493837",
+        "created_at": "2026-08-05T11:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084971016636493837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084971016636493837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 787,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好事！因为上个学期所有课都没去，成绩都不敢查，今天鼓起勇气看了眼，都过了\n普天同庆🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 1841,
+          "like_count": 84801,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 5349
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T23:50:00.000Z",
+        "description": "",
+        "id": "1568748618760482816",
+        "name": "离子芥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039935492612128768/d95c-3Hk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 664,
+          "like_count": 87725,
+          "listed_count": 3,
+          "media_count": 495,
+          "tweet_count": 6516
+        },
+        "url": "",
+        "username": "tene1la",
+        "verified": false
+      }
+    ]
+  }
+}

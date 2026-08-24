@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2082805000019808256"
+      ],
+      "media_source_tweet_id": [
+        "2082805018390831418"
+      ]
+    },
+    "author_id": "1494669485214633984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1494702873564758024",
+          "name": "Pinterest"
+        }
+      }
+    ],
+    "conversation_id": "2082825435239551347",
+    "created_at": "2026-07-30T13:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082825435239551347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2071514720037752832",
+          "start": 3,
+          "username": "doyoulovmi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tZ2FMQm0kq",
+          "end": 61,
+          "expanded_url": "https://x.com/doyoulovmi/status/2082805018390831418/photo/1",
+          "media_key": "16_2082805000019808256",
+          "start": 38,
+          "url": "https://t.co/tZ2FMQm0kq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082825435239551347",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082805018390831418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doyoulovmi: es un GIF y loamoOooo https://t.co/tZ2FMQm0kq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 312,
+        "media_key": "16_2082805000019808256",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOecHMKWkAAPkKW.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOecHMKWkAAPkKW.mp4"
+          }
+        ],
+        "width": 358
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2082805000019808256"
+          ]
+        },
+        "author_id": "2071514720037752832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1494702873564758024",
+              "name": "Pinterest"
+            }
+          }
+        ],
+        "conversation_id": "2082805018390831418",
+        "created_at": "2026-07-30T12:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082805018390831418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tZ2FMQm0kq",
+              "end": 45,
+              "expanded_url": "https://x.com/doyoulovmi/status/2082805018390831418/photo/1",
+              "media_key": "16_2082805000019808256",
+              "start": 22,
+              "url": "https://t.co/tZ2FMQm0kq"
+            },
+            {
+              "display_url": "x.com/doyoulovmi/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/doyoulovmi/status/2082804432912187604",
+              "start": 46,
+              "url": "https://t.co/7ISSY16tsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082805018390831418",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082804432912187604",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "es un GIF y loamoOooo https://t.co/tZ2FMQm0kq https://t.co/7ISSY16tsc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2082805000019808256"
+          ],
+          "media_source_tweet_id": [
+            "2082805018390831418"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1494702873564758024",
+              "name": "Pinterest"
+            }
+          }
+        ],
+        "conversation_id": "2082825435239551347",
+        "created_at": "2026-07-30T13:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082825435239551347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2071514720037752832",
+              "start": 3,
+              "username": "doyoulovmi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tZ2FMQm0kq",
+              "end": 61,
+              "expanded_url": "https://x.com/doyoulovmi/status/2082805018390831418/photo/1",
+              "media_key": "16_2082805000019808256",
+              "start": 38,
+              "url": "https://t.co/tZ2FMQm0kq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082825435239551347",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082805018390831418",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doyoulovmi: es un GIF y loamoOooo https://t.co/tZ2FMQm0kq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 1834,
+          "like_count": 84198,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 5297
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-29T08:45:19.000Z",
+        "description": "JUGANDO CHATIANDO TUITEANDO PERO JAMAS LABURANDO!! bloqueo al 70% de mi tl porque me estresa!!!!!!!!! besillos u.u",
+        "id": "2071514720037752832",
+        "location": "15",
+        "name": "raincandy",
+        "pinned_tweet_id": "2080770226069676349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079692149415702529/SMWg4ntz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 390,
+          "like_count": 4431,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2464
+        },
+        "url": "",
+        "username": "doyoulovmi",
+        "verified": false
+      }
+    ]
+  }
+}

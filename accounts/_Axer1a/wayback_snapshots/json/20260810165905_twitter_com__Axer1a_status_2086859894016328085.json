@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2086815129749131757",
+    "created_at": "2026-08-10T16:59:05.000Z",
+    "display_text_range": [
+      8,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T17:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086859894016328085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1291704894211186689",
+          "start": 0,
+          "username": "AZLXY1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086859894016328085",
+    "in_reply_to_user_id": "1291704894211186689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086859665384813002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AZLXY1 下回烫吸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2086815129749131757",
+        "created_at": "2026-08-10T16:59:05.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086859894016328085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1291704894211186689",
+              "start": 0,
+              "username": "AZLXY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086859894016328085",
+        "in_reply_to_user_id": "1291704894211186689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086859665384813002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AZLXY1 下回烫吸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291704894211186689",
+        "conversation_id": "2086815129749131757",
+        "created_at": "2026-08-10T16:58:10.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086859665384813002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "_Axer1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086859665384813002",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086815129749131757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Axer1a 口服是不行"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2086859894016328085",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 1854,
+          "like_count": 85767,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 5376
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-07T11:57:12.000Z",
+        "description": "Chinese,like playing video games and watching Japanese animeゲームとアニメが好きです、よろしく\n想要积极生活但发现自己是烂人，总之尽力在积极生活了\n自伤od药物滥用存在，无性恋倾向（有浪漫倾向）可以的话请fo我喵 ฅ^•ω•^ฅ\n总之会发很多碎碎念和药物",
+        "id": "1291704894211186689",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086859665384813002",
+        "name": "Arin 是一条咸鱼(ฅ˘꒳˘ฅ)",
+        "pinned_tweet_id": "2025236333711818830",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1291704894211186689/1771217329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 699,
+          "like_count": 1841,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2139
+        },
+        "url": "",
+        "username": "AZLXY1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

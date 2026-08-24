@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2085375393012597050",
+    "created_at": "2026-08-06T14:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085375393012597050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641968587102621696",
+          "start": 3,
+          "username": "0voki33Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085375393012597050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085302547615469651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0voki33Me: 🈶4homet片剂，私信问"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2085375393012597050",
+        "created_at": "2026-08-06T14:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085375393012597050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1641968587102621696",
+              "start": 3,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085375393012597050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085302547615469651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0voki33Me: 🈶4homet片剂，私信问"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2085302547615469651",
+        "created_at": "2026-08-06T09:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085302547615469651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085302547615469651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🈶4homet片剂，私信问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 1848,
+          "like_count": 85067,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 5355
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "在售卖神秘美食私我了解｜什么都发｜本号乃💊🩸TV 谨慎关注｜只回fo感兴趣的｜备用机@0voki33Me2｜提问箱https://t.co/Dhfap4cJpl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "0voki33Me2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 80,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 57,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 1128,
+          "like_count": 7229,
+          "listed_count": 1,
+          "media_count": 407,
+          "tweet_count": 7555
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

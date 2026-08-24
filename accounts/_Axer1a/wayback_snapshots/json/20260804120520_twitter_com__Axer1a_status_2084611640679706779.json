@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2084609452016374229",
+    "created_at": "2026-08-04T12:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084611640679706779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1420072716963520520",
+          "start": 0,
+          "username": "meiqinyuban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084611640679706779",
+    "in_reply_to_user_id": "1420072716963520520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084609452016374229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiqinyuban 还有全新的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3968,
+        "media_key": "3_2084609428595281920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4FOwbaEAARWii.jpg",
+        "width": 2976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2084609452016374229",
+        "created_at": "2026-08-04T12:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084611640679706779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420072716963520520",
+              "start": 0,
+              "username": "meiqinyuban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084611640679706779",
+        "in_reply_to_user_id": "1420072716963520520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084609452016374229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiqinyuban 还有全新的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084609428595281920"
+          ]
+        },
+        "author_id": "1420072716963520520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084609452016374229",
+        "created_at": "2026-08-04T11:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084609452016374229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8o4BM8Yc4j",
+              "end": 49,
+              "expanded_url": "https://x.com/meiqinyuban/status/2084609452016374229/photo/1",
+              "media_key": "3_2084609428595281920",
+              "start": 26,
+              "url": "https://t.co/8o4BM8Yc4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084609452016374229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主播26年了还买全新ddr3内存，给老电脑升级（（ https://t.co/8o4BM8Yc4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 1838,
+          "like_count": 84681,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 5324
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "中国CN/EN 双性恋 性别中立 纯爱天下第一！ 前雷石/视易系网络版KTV系统维保，\n成分：娱乐级街机音游玩家、古董数码、电子DIY 、GNU/Linux、卡拉OK、讨论一些奇怪的问题  把我当男的当女的都行 或许是男娘（？ 专科在读需要互fo请私信窝！提问箱点下方链接（）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meiqinyuban8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meiqinyuban8",
+                "start": 0,
+                "url": "https://t.co/dvlWzpleAX"
+              }
+            ]
+          }
+        },
+        "id": "1420072716963520520",
+        "location": "China",
+        "name": "美琴御坂🏳️‍🌈",
+        "pinned_tweet_id": "2005599456377667826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035389972740739072/zyUO7hv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 930,
+          "like_count": 22536,
+          "listed_count": 1,
+          "media_count": 1988,
+          "tweet_count": 10269
+        },
+        "url": "https://t.co/dvlWzpleAX",
+        "username": "meiqinyuban",
+        "verified": false
+      }
+    ]
+  }
+}

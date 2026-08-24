@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2084171300956741692",
+    "created_at": "2026-08-03T06:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084172065247281628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997644719908884480",
+          "start": 0,
+          "username": "Oz_Garlandd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084172065247281628",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084171300956741692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oz_Garlandd 其实是arc联动的歌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084171297366376448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOx2wKaWgAAqg9g.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2084171300956741692",
+        "created_at": "2026-08-03T06:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084172065247281628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084172065247281628",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084171300956741692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 其实是arc联动的歌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084171297366376448"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084171300956741692",
+        "created_at": "2026-08-03T06:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084171300956741692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2M93dLzclG",
+              "end": 45,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2084171300956741692/photo/1",
+              "media_key": "3_2084171297366376448",
+              "start": 22,
+              "url": "https://t.co/2M93dLzclG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084171300956741692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舞萌很喜欢的一首\n..冬季真的让我迷恋🥺🥺 https://t.co/2M93dLzclG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 1833,
+          "like_count": 84502,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 5315
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 472,
+          "like_count": 33555,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 2823
+        },
+        "url": "",
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2082355946395984309",
+    "created_at": "2026-07-29T09:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082393354789388643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2082080789119016961",
+          "start": 0,
+          "username": "hoshinofuji___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082393354789388643",
+    "in_reply_to_user_id": "2082080789119016961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082355946395984309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofuji___ 不如开团冲了让假死变真死，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2105,
+        "media_key": "3_2082355936644243456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYDsQubIAAjmCg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2082355946395984309",
+        "created_at": "2026-07-29T09:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082393354789388643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2082080789119016961",
+              "start": 0,
+              "username": "hoshinofuji___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082393354789388643",
+        "in_reply_to_user_id": "2082080789119016961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082355946395984309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofuji___ 不如开团冲了让假死变真死，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082355936644243456"
+          ]
+        },
+        "author_id": "2082080789119016961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082355946395984309",
+        "created_at": "2026-07-29T06:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082355946395984309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lIYcd7ADkS",
+              "end": 79,
+              "expanded_url": "https://x.com/hoshinofuji___/status/2082355946395984309/photo/1",
+              "media_key": "3_2082355936644243456",
+              "start": 56,
+              "url": "https://t.co/lIYcd7ADkS"
+            },
+            {
+              "display_url": "x.com/5mRtist/status…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/5mRtist/status/2082327418350838139",
+              "start": 80,
+              "url": "https://t.co/T6rbOSjxXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082355946395984309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2114,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082327418350838139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真傻，真的\n我单知道人会自杀，却不知道人死后会复生\n\n果然是骗人的......\n\n抱歉大家，被我的情绪感染了 https://t.co/lIYcd7ADkS https://t.co/T6rbOSjxXJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 1832,
+          "like_count": 84048,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 5291
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜love the whole world🇺🇳｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "name": "星野ふじ（reborn）",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082081722901188608/L8AzdfTr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 310,
+          "like_count": 375,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "hoshinofuji___",
+        "verified": true
+      }
+    ]
+  }
+}

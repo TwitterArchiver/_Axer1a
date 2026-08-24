@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089038915051442176"
+      ],
+      "media_source_tweet_id": [
+        "2089038924178206995"
+      ]
+    },
+    "author_id": "1494669485214633984",
+    "conversation_id": "2089048231393325437",
+    "created_at": "2026-08-16T17:54:45.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089048231393325437"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 15,
+          "tag": "祝贺蛤诞百年个人6h"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2045484774458785793",
+          "start": 3,
+          "username": "RURI_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VjFSPivrtX",
+          "end": 89,
+          "expanded_url": "https://x.com/RURI_8964/status/2089038924178206995/photo/1",
+          "media_key": "3_2089038915051442176",
+          "start": 66,
+          "url": "https://t.co/VjFSPivrtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089048231393325437",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089038915051442176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089038924178206995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RURI_8964: #祝贺蛤诞百年个人6h\n祝100岁生日快乐！再+1s\n（笑点解析：内容是从QQ空间了复制粘贴过来的） https://t.co/VjFSPivrtX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2089038915051442176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP3B0zWb0AAaV4r.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089038915051442176"
+          ],
+          "media_source_tweet_id": [
+            "2089038924178206995"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "conversation_id": "2089048231393325437",
+        "created_at": "2026-08-16T17:54:45.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089048231393325437"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 15,
+              "tag": "祝贺蛤诞百年个人6h"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2045484774458785793",
+              "start": 3,
+              "username": "RURI_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VjFSPivrtX",
+              "end": 89,
+              "expanded_url": "https://x.com/RURI_8964/status/2089038924178206995/photo/1",
+              "media_key": "3_2089038915051442176",
+              "start": 66,
+              "url": "https://t.co/VjFSPivrtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089048231393325437",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089038915051442176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089038924178206995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RURI_8964: #祝贺蛤诞百年个人6h\n祝100岁生日快乐！再+1s\n（笑点解析：内容是从QQ空间了复制粘贴过来的） https://t.co/VjFSPivrtX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089038915051442176"
+          ]
+        },
+        "author_id": "2045484774458785793",
+        "conversation_id": "2089038924178206995",
+        "created_at": "2026-08-16T17:17:46.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089038924178206995"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "祝贺蛤诞百年个人6h"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VjFSPivrtX",
+              "end": 74,
+              "expanded_url": "https://x.com/RURI_8964/status/2089038924178206995/photo/1",
+              "media_key": "3_2089038915051442176",
+              "start": 51,
+              "url": "https://t.co/VjFSPivrtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089038924178206995",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089038915051442176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#祝贺蛤诞百年个人6h\n祝100岁生日快乐！再+1s\n（笑点解析：内容是从QQ空间了复制粘贴过来的） https://t.co/VjFSPivrtX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2089048231393325437",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 1852,
+          "like_count": 86147,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 5404
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T12:49:20.000Z",
+        "description": "「花園電気ギター飛べ」\n一般通过⌚⭕女，不键政\n一号机已被推特永封\n避难所三号机→https://t.co/psgb9tGSNP\n（锁推，只过⌚⭕的熟人）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/OrangeSama8964",
+                "end": 64,
+                "expanded_url": "https://x.com/OrangeSama8964",
+                "start": 41,
+                "url": "https://t.co/psgb9tGSNP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1041327334",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1041327334",
+                "start": 0,
+                "url": "https://t.co/094sql9XNn"
+              }
+            ]
+          }
+        },
+        "id": "2045484774458785793",
+        "is_identity_verified": false,
+        "location": "日本 东京 千代田",
+        "most_recent_tweet_id": "2089038924178206995",
+        "name": "小野町瑠璃（小桔）",
+        "pinned_tweet_id": "2060986560695476456",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045484774458785793/1784523147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078692189379702784/ziThBE7k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 272,
+          "like_count": 3712,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/094sql9XNn",
+        "username": "RURI_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

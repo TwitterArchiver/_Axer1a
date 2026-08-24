@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2088943848424968356",
+    "created_at": "2026-08-16T12:21:14.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088964298018308121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1805486587666644992",
+          "start": 0,
+          "username": "Akebono__Yohira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088964298018308121",
+    "in_reply_to_user_id": "1805486587666644992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088943848424968356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akebono__Yohira 安慰剂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2088943811233976320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1rVCBaEAA4ESZ.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2088943848424968356",
+        "created_at": "2026-08-16T12:21:14.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088964298018308121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1805486587666644992",
+              "start": 0,
+              "username": "Akebono__Yohira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088964298018308121",
+        "in_reply_to_user_id": "1805486587666644992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088943848424968356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akebono__Yohira 安慰剂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088943811233976320"
+          ]
+        },
+        "author_id": "1805486587666644992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088943848424968356",
+        "created_at": "2026-08-16T10:59:58.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088943848424968356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8rc4GvPKA",
+              "end": 33,
+              "expanded_url": "https://x.com/Akebono__Yohira/status/2088943848424968356/photo/1",
+              "media_key": "3_2088943811233976320",
+              "start": 10,
+              "url": "https://t.co/m8rc4GvPKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088943848424968356",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088943811233976320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个助眠效果怎么样 https://t.co/m8rc4GvPKA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2088964298018308121",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1851,
+          "like_count": 86103,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 5400
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-25T06:22:20.000Z",
+        "description": "曾几何时，我们都长成别扭的大人。\n避难舱：@Akebono6sqrt249\n里账号：@KamomeCasiopeia 看情况通过验证",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "Akebono6sqrt249"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "KamomeCasiopeia"
+              }
+            ]
+          }
+        },
+        "id": "1805486587666644992",
+        "is_identity_verified": false,
+        "location": "千島列島 Chishima Islands",
+        "most_recent_tweet_id": "2088952728001433972",
+        "name": "✱ YOHIRA ✿",
+        "pinned_tweet_id": "2086975905159905379",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805486587666644992/1784786651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077414982162243584/1h-fqQpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 3330,
+          "like_count": 26875,
+          "listed_count": 1,
+          "media_count": 731,
+          "tweet_count": 4881
+        },
+        "url": "",
+        "username": "Akebono__Yohira",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2083153837616157065",
+    "created_at": "2026-07-31T11:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T12:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083153837616157065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "18263502",
+          "start": 3,
+          "username": "NitroX72"
+        },
+        {
+          "end": 130,
+          "id": "62629064",
+          "start": 121,
+          "username": "akqmusic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083153837616157065",
+    "lang": "pl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083009890474434662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NitroX72: 📢NEW SONG📢\n\n　　Ａ　Ｒ　Ｔ　Ｃ　Ｏ　Ｒ　Ｅ\n　　　　　　　　Ｘ\nＵ　Ｌ　Ｔ　Ｒ　Ａ　Ｆ　Ｕ　Ｎ　Ｋ\n\nlowiro Sound Team (ak+q x nitro) - chronologia\nw/ @akqmusic \n\nAvaila…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1488,
+        "media_key": "3_2083006509815078912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhTYmpaoAATObu.jpg",
+        "width": 2266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2083153837616157065",
+        "created_at": "2026-07-31T11:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083153837616157065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "18263502",
+              "start": 3,
+              "username": "NitroX72"
+            },
+            {
+              "end": 130,
+              "id": "62629064",
+              "start": 121,
+              "username": "akqmusic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083153837616157065",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083009890474434662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NitroX72: 📢NEW SONG📢\n\n　　Ａ　Ｒ　Ｔ　Ｃ　Ｏ　Ｒ　Ｅ\n　　　　　　　　Ｘ\nＵ　Ｌ　Ｔ　Ｒ　Ａ　Ｆ　Ｕ　Ｎ　Ｋ\n\nlowiro Sound Team (ak+q x nitro) - chronologia\nw/ @akqmusic \n\nAvaila…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083006509815078912"
+          ]
+        },
+        "author_id": "18263502",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1516437906059005952",
+              "name": "Bear Witness"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2083009890474434662",
+        "created_at": "2026-07-31T02:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083009890474434662"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 200,
+              "start": 193,
+              "tag": "arcaea"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 116,
+              "id": "62629064",
+              "start": 107,
+              "username": "akqmusic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Torl4rC7Y9",
+              "end": 224,
+              "expanded_url": "https://x.com/NitroX72/status/2083009890474434662/photo/1",
+              "media_key": "3_2083006509815078912",
+              "start": 201,
+              "url": "https://t.co/Torl4rC7Y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083009890474434662",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 18816,
+          "like_count": 727,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "📢NEW SONG📢\n\n　　Ａ　Ｒ　Ｔ　Ｃ　Ｏ　Ｒ　Ｅ\n　　　　　　　　Ｘ\nＵ　Ｌ　Ｔ　Ｒ　Ａ　Ｆ　Ｕ　Ｎ　Ｋ\n\nlowiro Sound Team (ak+q x nitro) - chronologia\nw/ @akqmusic \n\nAvailable now in Arcaea v6.16.\nBear witness to a legacy across all time.\n\n#arcaea https://t.co/Torl4rC7Y9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 1831,
+          "like_count": 84265,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 5299
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-20T07:54:04.000Z",
+        "description": "☆ nitro ☆ 31/⚥🏳️‍⚧️🏳️‍🌈⚥/singapore ☆ music - https://t.co/S0IXeAoe8G ☆ DJ ☆ Arcaea 譜面作者/chart design ☆ rhythm games ☆",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "soundcloud.com/nitrox72",
+                "end": 68,
+                "expanded_url": "http://soundcloud.com/nitrox72",
+                "start": 45,
+                "url": "https://t.co/S0IXeAoe8G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nitropv.bandcamp.com",
+                "end": 23,
+                "expanded_url": "http://nitropv.bandcamp.com",
+                "start": 0,
+                "url": "https://t.co/CthpbGA1J8"
+              }
+            ]
+          }
+        },
+        "id": "18263502",
+        "location": "Singapore",
+        "name": "☆｢nitro｣☆",
+        "pinned_tweet_id": "2043992957406326913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1392547781013766146/XyBcPCfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18820,
+          "following_count": 778,
+          "like_count": 9150,
+          "listed_count": 67,
+          "media_count": 3991,
+          "tweet_count": 18287
+        },
+        "url": "https://t.co/CthpbGA1J8",
+        "username": "NitroX72",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-03T21:39:15.000Z",
+        "description": "electronic music artist ✧ vgm ✧ sound design\n\navatar/header: M00nbase",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "echos.fm/akqmusic",
+                "end": 23,
+                "expanded_url": "https://echos.fm/akqmusic",
+                "start": 0,
+                "url": "https://t.co/0goZlrVFWI"
+              }
+            ]
+          }
+        },
+        "id": "62629064",
+        "location": "Tokyo",
+        "name": "ak+q",
+        "pinned_tweet_id": "1836088979763900430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834225700091428864/B7sl91Op_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22506,
+          "following_count": 600,
+          "like_count": 3113,
+          "listed_count": 86,
+          "media_count": 96,
+          "tweet_count": 1265
+        },
+        "url": "https://t.co/0goZlrVFWI",
+        "username": "akqmusic",
+        "verified": false
+      }
+    ]
+  }
+}

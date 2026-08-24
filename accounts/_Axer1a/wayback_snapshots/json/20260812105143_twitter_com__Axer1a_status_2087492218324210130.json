@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087457497049448448",
+        "3_2087457515240091649"
+      ],
+      "media_source_tweet_id": [
+        "2087457545103503857",
+        "2087457545103503857"
+      ]
+    },
+    "author_id": "1494669485214633984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087492218324210130",
+    "created_at": "2026-08-12T10:51:43.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T11:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087492218324210130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081009888818278400",
+          "start": 3,
+          "username": "JiGuang_Lab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dVG6OXAZNr",
+          "end": 63,
+          "expanded_url": "https://x.com/JiGuang_Lab/status/2087457545103503857/photo/1",
+          "media_key": "3_2087457497049448448",
+          "start": 40,
+          "url": "https://t.co/dVG6OXAZNr"
+        },
+        {
+          "display_url": "pic.x.com/dVG6OXAZNr",
+          "end": 63,
+          "expanded_url": "https://x.com/JiGuang_Lab/status/2087457545103503857/photo/1",
+          "media_key": "3_2087457515240091649",
+          "start": 40,
+          "url": "https://t.co/dVG6OXAZNr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087492218324210130",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087457497049448448"
+      },
+      {
+        "media_key": "3_2087457515240091649"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087457545103503857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JiGuang_Lab: 毒虫眼中的自己     \n毒虫希望遇见的恋人 https://t.co/dVG6OXAZNr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 817,
+        "media_key": "3_2087457497049448448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgjiKNbwAA1vpw.jpg",
+        "width": 1280
+      },
+      {
+        "height": 838,
+        "media_key": "3_2087457515240091649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgjjN-a8AEgZpk.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087457497049448448",
+            "3_2087457515240091649"
+          ]
+        },
+        "author_id": "2081009888818278400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087457545103503857",
+        "created_at": "2026-08-12T08:33:56.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087457545103503857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dVG6OXAZNr",
+              "end": 46,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2087457545103503857/photo/1",
+              "media_key": "3_2087457497049448448",
+              "start": 23,
+              "url": "https://t.co/dVG6OXAZNr"
+            },
+            {
+              "display_url": "pic.x.com/dVG6OXAZNr",
+              "end": 46,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2087457545103503857/photo/1",
+              "media_key": "3_2087457515240091649",
+              "start": 23,
+              "url": "https://t.co/dVG6OXAZNr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087457545103503857",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087457497049448448"
+          },
+          {
+            "media_key": "3_2087457515240091649"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 465,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "毒虫眼中的自己     \n毒虫希望遇见的恋人 https://t.co/dVG6OXAZNr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087457497049448448",
+            "3_2087457515240091649"
+          ],
+          "media_source_tweet_id": [
+            "2087457545103503857",
+            "2087457545103503857"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087492218324210130",
+        "created_at": "2026-08-12T10:51:43.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087492218324210130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081009888818278400",
+              "start": 3,
+              "username": "JiGuang_Lab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dVG6OXAZNr",
+              "end": 63,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2087457545103503857/photo/1",
+              "media_key": "3_2087457497049448448",
+              "start": 40,
+              "url": "https://t.co/dVG6OXAZNr"
+            },
+            {
+              "display_url": "pic.x.com/dVG6OXAZNr",
+              "end": 63,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2087457545103503857/photo/1",
+              "media_key": "3_2087457515240091649",
+              "start": 40,
+              "url": "https://t.co/dVG6OXAZNr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087492218324210130",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087457497049448448"
+          },
+          {
+            "media_key": "3_2087457515240091649"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087457545103503857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JiGuang_Lab: 毒虫眼中的自己     \n毒虫希望遇见的恋人 https://t.co/dVG6OXAZNr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2087492218324210130",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 1857,
+          "like_count": 85945,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 5390
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "极光实验室 致力于成为一个免费开放且持续更新的精神活性物质和0D知识整合站点，为方便理解，取舍了大量内容 本账号为官方工作人员账号，望熟知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp52F7j"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "location": "化学极乐 人类崛起",
+        "most_recent_tweet_id": "2087491163804897447",
+        "name": "极光实验室",
+        "pinned_tweet_id": "2083873136043585589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1785668634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083870888664219648/kFxXDJre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 313,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/TdRUp52F7j",
+        "username": "JiGuang_Lab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

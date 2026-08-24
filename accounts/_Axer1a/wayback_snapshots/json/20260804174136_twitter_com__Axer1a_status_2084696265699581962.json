@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084690185053196288"
+      ],
+      "media_source_tweet_id": [
+        "2084690213167919581"
+      ]
+    },
+    "author_id": "1494669485214633984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2084696265699581962",
+    "created_at": "2026-08-04T17:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T18:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084696265699581962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870313420807163904",
+          "start": 3,
+          "username": "IzayoiMarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SiCQpIlHGc",
+          "end": 46,
+          "expanded_url": "https://x.com/IzayoiMarin/status/2084690213167919581/photo/1",
+          "media_key": "3_2084690185053196288",
+          "start": 23,
+          "url": "https://t.co/SiCQpIlHGc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084696265699581962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084690213167919581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IzayoiMarin: 我的妈天堂 https://t.co/SiCQpIlHGc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2084690185053196288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5OrZrW0AAFhlf.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084690185053196288"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084690213167919581",
+        "created_at": "2026-08-04T17:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084690213167919581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SiCQpIlHGc",
+              "end": 29,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2084690213167919581/photo/1",
+              "media_key": "3_2084690185053196288",
+              "start": 6,
+              "url": "https://t.co/SiCQpIlHGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084690213167919581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的妈天堂 https://t.co/SiCQpIlHGc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084690185053196288"
+          ],
+          "media_source_tweet_id": [
+            "2084690213167919581"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084696265699581962",
+        "created_at": "2026-08-04T17:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084696265699581962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870313420807163904",
+              "start": 3,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SiCQpIlHGc",
+              "end": 46,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2084690213167919581/photo/1",
+              "media_key": "3_2084690185053196288",
+              "start": 23,
+              "url": "https://t.co/SiCQpIlHGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084696265699581962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084690213167919581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IzayoiMarin: 我的妈天堂 https://t.co/SiCQpIlHGc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1841,
+          "like_count": 84750,
+          "listed_count": 1,
+          "media_count": 439,
+          "tweet_count": 5348
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "Hoshino Marin（星野真凛）|   09高三纯女🇨🇳   |   梗图源网络，如有侵权可删   |  恩师：@aoim33  |  251： @umodamo | 互fo评论区留言 | 碎碎念 |  恋爱脑｜厌蠢症｜JPOPアニメ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 59,
+                "username": "aoim33"
+              },
+              {
+                "end": 84,
+                "start": 76,
+                "username": "umodamo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQroFMf"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "name": "星野まりん",
+        "pinned_tweet_id": "2084675007540560323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076574568773197824/WCbkByx-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 2122,
+          "like_count": 53063,
+          "listed_count": 8,
+          "media_count": 2761,
+          "tweet_count": 24423
+        },
+        "url": "https://t.co/BABPQroFMf",
+        "username": "IzayoiMarin",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2084642485259923559",
+    "created_at": "2026-08-04T14:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084642485259923559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1732763258325762048",
+          "start": 3,
+          "username": "AmeAsukaLangley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084642485259923559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084321225753473329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmeAsukaLangley: 500fo了，我也没有太多钱，所以抽五个5.2r，我也不会用grok之类的，所以评论转发关注我到时候会用别的抽奖程序来确认，谢谢大家喜欢我，祝看到这条帖子的人永远幸福，无论你喜欢我还是讨厌我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2084642485259923559",
+        "created_at": "2026-08-04T14:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084642485259923559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1732763258325762048",
+              "start": 3,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084642485259923559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084321225753473329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmeAsukaLangley: 500fo了，我也没有太多钱，所以抽五个5.2r，我也不会用grok之类的，所以评论转发关注我到时候会用别的抽奖程序来确认，谢谢大家喜欢我，祝看到这条帖子的人永远幸福，无论你喜欢我还是讨厌我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2084321225753473329",
+        "created_at": "2026-08-03T16:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084321225753473329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084321225753473329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 582,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "500fo了，我也没有太多钱，所以抽五个5.2r，我也不会用grok之类的，所以评论转发关注我到时候会用别的抽奖程序来确认，谢谢大家喜欢我，祝看到这条帖子的人永远幸福，无论你喜欢我还是讨厌我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 1838,
+          "like_count": 84710,
+          "listed_count": 1,
+          "media_count": 437,
+          "tweet_count": 5335
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 375,
+          "like_count": 30199,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2467
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      }
+    ]
+  }
+}

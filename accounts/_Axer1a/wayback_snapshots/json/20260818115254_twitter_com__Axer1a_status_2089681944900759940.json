@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2089681944900759940",
+    "created_at": "2026-08-18T11:52:54.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T12:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089681944900759940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1085338453665996800",
+          "start": 3,
+          "username": "MasayukiTsuda2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/NJBp",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/NJBp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089681944900759940",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089573180856045717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @MasayukiTsuda2: 枝の上でぴったり体を寄せ合う、黄緑と白のメジロのカップル。小さな嘴で、相手のあご周りや頭を優しくつつき合っています。自分では届かない場所の羽をいたわり、整え合う姿から、深い絆が伝わってきます 📹月微摄影\nhttps://t.co/NJBp…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7407,
+        "height": 1280,
+        "media_key": "7_1698158336779386880",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1698158336779386880/pu/img/_2rACMeHlk5KcVWU.jpg",
+        "public_metrics": {
+          "view_count": 72904
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1698158336779386880/pu/vid/320x568/vEuIxaGKHFHVA4t3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1698158336779386880/pu/vid/480x852/JXuocrHc6yr7Trgg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1698158336779386880/pu/vid/720x1280/iv_DzKp2sbBnMbXc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1698158336779386880/pu/pl/oNytDFz4y7AyWrWl.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2089681944900759940",
+        "created_at": "2026-08-18T11:52:54.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089681944900759940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1085338453665996800",
+              "start": 3,
+              "username": "MasayukiTsuda2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/NJBp",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/NJBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089681944900759940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089573180856045717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @MasayukiTsuda2: 枝の上でぴったり体を寄せ合う、黄緑と白のメジロのカップル。小さな嘴で、相手のあご周りや頭を優しくつつき合っています。自分では届かない場所の羽をいたわり、整え合う姿から、深い絆が伝わってきます 📹月微摄影\nhttps://t.co/NJBp…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1698158336779386880"
+          ],
+          "media_source_tweet_id": [
+            "1703425325030604966"
+          ]
+        },
+        "author_id": "1085338453665996800",
+        "conversation_id": "2089573180856045717",
+        "created_at": "2026-08-18T04:40:43.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089573180856045717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NJBpWMgAcO",
+              "end": 125,
+              "expanded_url": "https://x.com/linjianyangbe/status/1703425325030604966/video/1",
+              "media_key": "7_1698158336779386880",
+              "start": 102,
+              "url": "https://t.co/NJBpWMgAcO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089573180856045717",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_1698158336779386880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 9974,
+          "like_count": 574,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "reply_settings": "verified",
+        "text": "枝の上でぴったり体を寄せ合う、黄緑と白のメジロのカップル。小さな嘴で、相手のあご周りや頭を優しくつつき合っています。自分では届かない場所の羽をいたわり、整え合う姿から、深い絆が伝わってきます 📹月微摄影\nhttps://t.co/NJBpWMgAcO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2089681944900759940",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 1893,
+          "like_count": 86440,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 5412
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-16T00:50:26.000Z",
+        "description": "津田雅之。比較文学研究者。『批評家クルティウスのヨーロッパ精神』。共著に、 Pluralité des cultures 、Roman mystique、La Grande Guerre vue de Méditerranée 、Littératures et arts du vide など。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osaka-u.academia.edu/MasayukiTsuda",
+                "end": 23,
+                "expanded_url": "https://osaka-u.academia.edu/MasayukiTsuda",
+                "start": 0,
+                "url": "https://t.co/cbPgV1KkFJ"
+              }
+            ]
+          }
+        },
+        "id": "1085338453665996800",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2089573180856045717",
+        "name": "Masayuki Tsuda",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1085338453665996800/1547600714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1085342087162126336/TLfZ4-IC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123517,
+          "following_count": 965,
+          "like_count": 27404,
+          "listed_count": 974,
+          "media_count": 6286,
+          "tweet_count": 8034
+        },
+        "url": "https://t.co/cbPgV1KkFJ",
+        "username": "MasayukiTsuda2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

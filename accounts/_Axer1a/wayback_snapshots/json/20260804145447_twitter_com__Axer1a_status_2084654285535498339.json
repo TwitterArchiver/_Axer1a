@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2084646921746936103",
+    "created_at": "2026-08-04T14:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084654285535498339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057552254463291393",
+          "start": 0,
+          "username": "6De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084654285535498339",
+    "in_reply_to_user_id": "2057552254463291393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084653019027714453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6De_dian 也许线上或者不怎么依赖位置的工作好一些可惜我不知道干什么 没才艺没技能 我是废物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2084646921746936103",
+        "created_at": "2026-08-04T14:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084654285535498339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084654285535498339",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084653019027714453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 也许线上或者不怎么依赖位置的工作好一些可惜我不知道干什么 没才艺没技能 我是废物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2084646921746936103",
+        "created_at": "2026-08-04T14:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084653019027714453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "_Axer1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084653019027714453",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084652735048118381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Axer1a 可惜工资也低呀…要是能多赚点就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 1839,
+          "like_count": 84726,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 5342
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 568,
+          "like_count": 13618,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2518
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

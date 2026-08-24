@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2090300184148500960",
+    "created_at": "2026-08-20T12:51:14.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090421399727079613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1969670166423228416",
+          "start": 0,
+          "username": "h2o2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090421399727079613",
+    "in_reply_to_user_id": "1969670166423228416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090300184148500960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h2o2333 比我好看多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2090300184148500960",
+        "created_at": "2026-08-20T12:51:14.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090421399727079613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1969670166423228416",
+              "start": 0,
+              "username": "h2o2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090421399727079613",
+        "in_reply_to_user_id": "1969670166423228416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090300184148500960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h2o2333 比我好看多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969670166423228416",
+        "conversation_id": "2090300184148500960",
+        "created_at": "2026-08-20T04:49:34.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090300184148500960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wuyuandev/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/wuyuandev/status/2089978607632556280",
+              "start": 22,
+              "url": "https://t.co/k7RsLMTkWy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090300184148500960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 329,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089978607632556280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别的跨女要么有经济要么有建模，就我啥都没有 https://t.co/k7RsLMTkWy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2090421399727079613",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 1910,
+          "like_count": 86626,
+          "listed_count": 0,
+          "media_count": 439,
+          "tweet_count": 5424
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "可能是mtf 超级耐杀王 年龄保密(是老东西) 小证2026.7.28 加vrc好友请私信\nmafuyu天下第一☺️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h2o23332",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h2o23332",
+                "start": 0,
+                "url": "https://t.co/NCmkS9Sf5a"
+              }
+            ]
+          }
+        },
+        "id": "1969670166423228416",
+        "is_identity_verified": false,
+        "location": "level 790",
+        "most_recent_tweet_id": "2090355759993467142",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "2085584792461132007",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085582393411526657/-SwzJrIE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 945,
+          "like_count": 2595,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 4564
+        },
+        "url": "https://t.co/NCmkS9Sf5a",
+        "username": "h2o2333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
