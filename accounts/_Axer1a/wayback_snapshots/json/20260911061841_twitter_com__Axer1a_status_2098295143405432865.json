@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2098199122465677686",
+    "created_at": "2026-09-11T06:18:41.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T07:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098295143405432865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1500855672480489475",
+          "start": 0,
+          "username": "Science_010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098295143405432865",
+    "in_reply_to_user_id": "1500855672480489475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098199122465677686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Science_010 皮肤病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2098199122465677686",
+        "created_at": "2026-09-11T06:18:41.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T07:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098295143405432865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1500855672480489475",
+              "start": 0,
+              "username": "Science_010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098295143405432865",
+        "in_reply_to_user_id": "1500855672480489475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098199122465677686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Science_010 皮肤病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500855672480489475",
+        "conversation_id": "2098199122465677686",
+        "created_at": "2026-09-10T23:57:08.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T00:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098199122465677686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098199122465677686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想去医院开什么证明能免训"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx(she/they) 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 107,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 84,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2098295143405432865",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 1962,
+          "like_count": 89201,
+          "listed_count": 0,
+          "media_count": 447,
+          "tweet_count": 5582
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "世界上最区的人 男的 18 4i ISFJ/喜欢东方/平泽进/cs2/钢四/后室/术/宇宙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usep_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usep_111",
+                "start": 0,
+                "url": "https://t.co/Lu4Wy2XqtK"
+              }
+            ]
+          }
+        },
+        "id": "1500855672480489475",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098230686444564861",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "2045916676081025099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500855672480489475/1769914627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087092802748616704/4WPyJ9kY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 1070,
+          "like_count": 4188,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 2905
+        },
+        "url": "https://t.co/Lu4Wy2XqtK",
+        "username": "Science_010",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

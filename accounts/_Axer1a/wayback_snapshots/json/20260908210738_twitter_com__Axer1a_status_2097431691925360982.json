@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2097425506505241018",
+    "created_at": "2026-09-08T21:07:38.000Z",
+    "display_text_range": [
+      14,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T22:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097431691925360982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899082105977462784",
+          "start": 0,
+          "username": "Nullemptyset"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097431691925360982",
+    "in_reply_to_user_id": "1899082105977462784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097427669147168830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nullemptyset 也是 我经常路过的都基本在市中心偏的也不怎去懒得动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2097425506505241018",
+        "created_at": "2026-09-08T21:07:38.000Z",
+        "display_text_range": [
+          14,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T22:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097431691925360982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899082105977462784",
+              "start": 0,
+              "username": "Nullemptyset"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097431691925360982",
+        "in_reply_to_user_id": "1899082105977462784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097427669147168830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nullemptyset 也是 我经常路过的都基本在市中心偏的也不怎去懒得动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899082105977462784",
+        "conversation_id": "2097425506505241018",
+        "created_at": "2026-09-08T20:51:39.000Z",
+        "display_text_range": [
+          9,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T21:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097427669147168830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "_Axer1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097427669147168830",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097427299625013545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Axer1a 长沙还是有比较偏的滨，在工作日没有什么人不用排号"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx(she/they) 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 107,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 84,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2097431691925360982",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 1939,
+          "like_count": 88915,
+          "listed_count": 0,
+          "media_count": 447,
+          "tweet_count": 5575
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-10T12:57:20.000Z",
+        "description": "＝空集｜sh｜od｜不聊黄不建政不无差别骂人不出售物质｜同类互fo｜私信欢迎互动",
+        "id": "1899082105977462784",
+        "is_identity_verified": false,
+        "location": "虚无",
+        "most_recent_tweet_id": "2097431283106533550",
+        "name": "∅",
+        "pinned_tweet_id": "2071605670533792080",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1899082105977462784/1772009146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059683378790891520/TFD9Nj43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 121,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 320
+        },
+        "url": "",
+        "username": "Nullemptyset",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

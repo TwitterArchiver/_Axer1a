@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2093971683027861922",
+    "created_at": "2026-08-30T07:58:48.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T08:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093971683027861922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2011620183866294272",
+          "start": 3,
+          "username": "chickenincrisis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093971683027861922",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6601
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093497043180568641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chickenincrisis: humans keep stealing my eggs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2093971683027861922",
+        "created_at": "2026-08-30T07:58:48.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T08:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093971683027861922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2011620183866294272",
+              "start": 3,
+              "username": "chickenincrisis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093971683027861922",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6601
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093497043180568641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chickenincrisis: humans keep stealing my eggs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011620183866294272",
+        "conversation_id": "2093497043180568641",
+        "created_at": "2026-08-29T00:32:45.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T01:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093497043180568641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093497043180568641",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1463,
+          "impression_count": 1826608,
+          "like_count": 52369,
+          "quote_count": 847,
+          "reply_count": 1510,
+          "retweet_count": 6601
+        },
+        "reply_settings": "everyone",
+        "text": "humans keep stealing my eggs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2093971683027861922",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 1929,
+          "like_count": 87684,
+          "listed_count": 0,
+          "media_count": 444,
+          "tweet_count": 5490
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-15T02:03:34.000Z",
+        "description": "to get to the other side.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kfc.com.au",
+                "end": 23,
+                "expanded_url": "https://www.kfc.com.au/",
+                "start": 0,
+                "url": "https://t.co/XKdhIlXTWX"
+              }
+            ]
+          }
+        },
+        "id": "2011620183866294272",
+        "is_identity_verified": false,
+        "location": "kfc",
+        "most_recent_tweet_id": "2093960643661746400",
+        "name": "chicken",
+        "pinned_tweet_id": "2093818021194371255",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011620183866294272/1769039410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083347612338716672/cRuSc01A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27372,
+          "following_count": 422,
+          "like_count": 18277,
+          "listed_count": 94,
+          "media_count": 227,
+          "tweet_count": 6581
+        },
+        "url": "https://t.co/XKdhIlXTWX",
+        "username": "chickenincrisis",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

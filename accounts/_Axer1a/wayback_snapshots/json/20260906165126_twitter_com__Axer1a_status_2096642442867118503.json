@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2096642442867118503",
+    "created_at": "2026-09-06T16:51:26.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T17:51:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096642442867118503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 73,
+          "id": "1720665183188922368",
+          "start": 68,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/H20_chemistry_…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/H20_chemistry_x/status/2096630014607560822",
+          "start": 74,
+          "url": "https://t.co/iwnbNHngLQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096642442867118503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096630014607560822",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抛开我的性别 查看我的所有帖子 然后确定我的性别符不符合男性的刻板印象 之后为其打分 满分100 越接近满分则越符合刻板印象 反之亦然 @grok https://t.co/iwnbNHngLQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2096642442867118503",
+        "created_at": "2026-09-06T16:51:26.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096642442867118503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 73,
+              "id": "1720665183188922368",
+              "start": 68,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/H20_chemistry_…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/H20_chemistry_x/status/2096630014607560822",
+              "start": 74,
+              "url": "https://t.co/iwnbNHngLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096642442867118503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096630014607560822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抛开我的性别 查看我的所有帖子 然后确定我的性别符不符合男性的刻板印象 之后为其打分 满分100 越接近满分则越符合刻板印象 反之亦然 @grok https://t.co/iwnbNHngLQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778616836214439936",
+        "conversation_id": "2096630014607560822",
+        "created_at": "2026-09-06T16:02:03.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096630014607560822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 73,
+              "id": "1720665183188922368",
+              "start": 68,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CascadingPallo…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/CascadingPallor/status/2096445735684485457",
+              "start": 74,
+              "url": "https://t.co/3QIyDBSraq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096630014607560822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 427,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096445735684485457",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抛开我的性别 查看我的所有帖子 然后确定我的性别符不符合男性的刻板印象 之后为其打分 满分100 越接近满分则越符合刻板印象 反之亦然 @grok https://t.co/3QIyDBSraq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx(she/they) 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 107,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 84,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2096642442867118503",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 1939,
+          "like_count": 88634,
+          "listed_count": 0,
+          "media_count": 447,
+          "tweet_count": 5553
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-12T02:51:20.000Z",
+        "description": "No one like me,doesn't mean you won't like me./🏳‍⚧️友跨/infp/欢迎互fo交朋友喵/日本語を勉強中/防失联@h20_chemistry2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "h20_chemistry2"
+              }
+            ]
+          }
+        },
+        "id": "1778616836214439936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096638177440399783",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "1874417607568494921",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778616836214439936/1716443879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010329620286193664/P18zuZhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667,
+          "following_count": 2036,
+          "like_count": 45323,
+          "listed_count": 2,
+          "media_count": 1150,
+          "tweet_count": 14277
+        },
+        "url": "",
+        "username": "H20_chemistry_x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096642458415145387",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9040772,
+          "following_count": 4,
+          "like_count": 136,
+          "listed_count": 7530,
+          "media_count": 9342341,
+          "tweet_count": 139185437
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

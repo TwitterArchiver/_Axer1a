@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092881822413950977"
+      ]
+    },
+    "author_id": "1494669485214633984",
+    "conversation_id": "2092677221026848912",
+    "created_at": "2026-08-27T07:48:09.000Z",
+    "display_text_range": [
+      14,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T08:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092881840768266422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1561806114274287616",
+          "start": 0,
+          "username": "crossyangshe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NVF5PUnhal",
+          "end": 59,
+          "expanded_url": "https://x.com/_Axer1a/status/2092881840768266422/photo/1",
+          "media_key": "3_2092881822413950977",
+          "start": 36,
+          "url": "https://t.co/NVF5PUnhal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092881840768266422",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092881822413950977"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092677221026848912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crossyangshe 买这种米粉饼可以做汤粉炒粉拌粉比泡面口感好 https://t.co/NVF5PUnhal"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092881822413950977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQto7c3bEAE-BiK.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092881822413950977"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "conversation_id": "2092677221026848912",
+        "created_at": "2026-08-27T07:48:09.000Z",
+        "display_text_range": [
+          14,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092881840768266422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVF5PUnhal",
+              "end": 59,
+              "expanded_url": "https://x.com/_Axer1a/status/2092881840768266422/photo/1",
+              "media_key": "3_2092881822413950977",
+              "start": 36,
+              "url": "https://t.co/NVF5PUnhal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092881840768266422",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092881822413950977"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092677221026848912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 买这种米粉饼可以做汤粉炒粉拌粉比泡面口感好 https://t.co/NVF5PUnhal"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2092677221026848912",
+        "created_at": "2026-08-26T18:15:04.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092677221026848912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092677221026848912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泡面好难受，清淡的味道，重口味的又太腻，只能吃这种东西"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2092881840768266422",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 1924,
+          "like_count": 87313,
+          "listed_count": 0,
+          "media_count": 442,
+          "tweet_count": 5466
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2092681173474635868",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 595,
+          "like_count": 5711,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 1384
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

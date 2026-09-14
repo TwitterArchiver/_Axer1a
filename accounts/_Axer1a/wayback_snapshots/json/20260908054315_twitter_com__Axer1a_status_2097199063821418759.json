@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2097194485193314799",
+    "created_at": "2026-09-08T05:43:15.000Z",
+    "display_text_range": [
+      9,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097199063821418759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1726969617850286080",
+          "start": 0,
+          "username": "K1ku21_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097199063821418759",
+    "in_reply_to_user_id": "1726969617850286080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097194485193314799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1ku21_ 🤔日框b15不是算两个版本吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1693,
+        "media_key": "3_2097194473084391424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRq7QwkbkAAFQxy.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2097194485193314799",
+        "created_at": "2026-09-08T05:43:15.000Z",
+        "display_text_range": [
+          9,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097199063821418759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "K1ku21_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097199063821418759",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097194485193314799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1ku21_ 🤔日框b15不是算两个版本吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097194473084391424"
+          ]
+        },
+        "author_id": "1726969617850286080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097194485193314799",
+        "created_at": "2026-09-08T05:25:03.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097194485193314799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q7XOq3uTd2",
+              "end": 73,
+              "expanded_url": "https://x.com/K1ku21_/status/2097194485193314799/photo/1",
+              "media_key": "3_2097194473084391424",
+              "start": 50,
+              "url": "https://t.co/Q7XOq3uTd2"
+            },
+            {
+              "display_url": "x.com/maimai_officia…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/maimai_official/status/2097159253131964569",
+              "start": 74,
+              "url": "https://t.co/vq5EuM6hXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097194485193314799",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097194473084391424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097159253131964569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wtf？日服魔了（确信\n但这对我来说是个悲报啊 这意味着我b15清空也就是说这个月上不了w45了😭 https://t.co/Q7XOq3uTd2 https://t.co/vq5EuM6hXs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx(she/they) 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 107,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 84,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2097199063821418759",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 1941,
+          "like_count": 88785,
+          "listed_count": 0,
+          "media_count": 447,
+          "tweet_count": 5567
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨碎碎念推\n关注@Yesmynamehaer1 @MukugeOvO @Nijika_Dark2 @winterfruit_1 @tianxiao0502 @Akinoyo_desu谢谢喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "Yesmynamehaer1"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "MukugeOvO"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Nijika_Dark2"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "tianxiao0502"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kikunashi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kikunashi",
+                "start": 0,
+                "url": "https://t.co/5udd6ZTiV6"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "is_identity_verified": false,
+        "location": "天目山路305号",
+        "most_recent_tweet_id": "2097194504910704962",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1726969617850286080/1759513143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088823027933093888/mRDdqdIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 256,
+          "like_count": 25564,
+          "listed_count": 3,
+          "media_count": 704,
+          "tweet_count": 14162
+        },
+        "url": "https://t.co/5udd6ZTiV6",
+        "username": "K1ku21_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

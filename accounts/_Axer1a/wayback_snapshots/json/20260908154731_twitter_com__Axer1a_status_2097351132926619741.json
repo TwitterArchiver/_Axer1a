@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2097273222102491552",
+    "created_at": "2026-09-08T15:47:31.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T16:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097351132926619741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893598468490625024",
+          "start": 0,
+          "username": "zhngzh252134"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097351132926619741",
+    "in_reply_to_user_id": "1893598468490625024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097273222102491552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngzh252134 寒暑假回去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2097273222102491552",
+        "created_at": "2026-09-08T15:47:31.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097351132926619741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893598468490625024",
+              "start": 0,
+              "username": "zhngzh252134"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097351132926619741",
+        "in_reply_to_user_id": "1893598468490625024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097273222102491552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngzh252134 寒暑假回去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893598468490625024",
+        "conversation_id": "2097273222102491552",
+        "created_at": "2026-09-08T10:37:56.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097273222102491552"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "大连"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/asd6368995359/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/asd6368995359/status/2096756311807652162",
+              "start": 16,
+              "url": "https://t.co/9DmdYWCIOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097273222102491552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 948,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096756311807652162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#大连 这城市会有跨性别出没？ https://t.co/9DmdYWCIOI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx(she/they) 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 107,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 84,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2097351132926619741",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 1939,
+          "like_count": 88882,
+          "listed_count": 0,
+          "media_count": 447,
+          "tweet_count": 5570
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-23T09:47:24.000Z",
+        "description": "08/hrt:25.8.28\n这是简介\n大连\n欢迎大家互fo喵",
+        "id": "1893598468490625024",
+        "is_identity_verified": false,
+        "location": "爱我的人心里",
+        "most_recent_tweet_id": "2097334091729555528",
+        "name": "Caroline🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1893598468490625024/1788866414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097283819271499776/BZzs8rWs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 653,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "zhngzh252134",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

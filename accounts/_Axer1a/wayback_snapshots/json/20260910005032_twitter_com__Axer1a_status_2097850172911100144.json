@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2097735346356355351",
+    "created_at": "2026-09-10T00:50:32.000Z",
+    "display_text_range": [
+      13,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T01:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097850172911100144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701474166392905729",
+          "start": 0,
+          "username": "NanaNana_os"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097850172911100144",
+    "in_reply_to_user_id": "1701474166392905729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097746517172097058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanaNana_os 右美本体有ssri作用 2d6代谢出来的dxo才是解离 而安非他酮又是2d6抑制剂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2097735346356355351",
+        "created_at": "2026-09-10T00:50:32.000Z",
+        "display_text_range": [
+          13,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T01:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097850172911100144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701474166392905729",
+              "start": 0,
+              "username": "NanaNana_os"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097850172911100144",
+        "in_reply_to_user_id": "1701474166392905729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097746517172097058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanaNana_os 右美本体有ssri作用 2d6代谢出来的dxo才是解离 而安非他酮又是2d6抑制剂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701474166392905729",
+        "conversation_id": "2097735346356355351",
+        "created_at": "2026-09-09T17:58:38.000Z",
+        "display_text_range": [
+          9,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097746517172097058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "_Axer1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097746517172097058",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097737242873876946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Axer1a 那个nmda+ndri……\n没有血清素吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx(she/they) 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 107,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 84,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2097850172911100144",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 1954,
+          "like_count": 88984,
+          "listed_count": 0,
+          "media_count": 447,
+          "tweet_count": 5578
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-12T05:54:01.000Z",
+        "description": "enby｜💕@yuwilmeaning｜❤️‍🩹@_sharkee1024 ｜EE +BME+ Psypharm｜Beijing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "yuwilmeaning"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "username": "_sharkee1024"
+              }
+            ]
+          }
+        },
+        "id": "1701474166392905729",
+        "is_identity_verified": false,
+        "location": "DLPFC",
+        "most_recent_tweet_id": "2097834094650614033",
+        "name": "7Na7Na",
+        "pinned_tweet_id": "2076697076231258510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701474166392905729/1744998704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947780376044425216/KXTmmUpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 743,
+          "like_count": 31285,
+          "listed_count": 1,
+          "media_count": 490,
+          "tweet_count": 3986
+        },
+        "url": "",
+        "username": "NanaNana_os",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

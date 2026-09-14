@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2097408688592158884",
+    "created_at": "2026-09-08T19:36:13.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T20:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097408688592158884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "706663514845401088",
+          "start": 3,
+          "username": "ToughSf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097408688592158884",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097399574805549319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ToughSf: Did the planets in the TRAPPIST-1 system form far from their parent star then migrate inwards? \nThat would explain their distr…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 984,
+        "media_key": "3_2096061944583057410",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRa1O7IWcAICcDe.jpg",
+        "width": 735
+      },
+      {
+        "height": 771,
+        "media_key": "3_2096061944868532224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRa1O8MacAABXf9.png",
+        "width": 668
+      },
+      {
+        "height": 837,
+        "media_key": "3_2096061943006011397",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRa1O1QWoAU9_fi.png",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2097408688592158884",
+        "created_at": "2026-09-08T19:36:13.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T20:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097408688592158884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "706663514845401088",
+              "start": 3,
+              "username": "ToughSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097408688592158884",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097399574805549319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ToughSf: Did the planets in the TRAPPIST-1 system form far from their parent star then migrate inwards? \nThat would explain their distr…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096061944583057410",
+            "3_2096061944868532224",
+            "3_2096061943006011397"
+          ]
+        },
+        "author_id": "706663514845401088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357330260291821577",
+              "name": "Exoplanets"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2097399574805549319",
+        "created_at": "2026-09-08T19:00:01.000Z",
+        "display_text_range": [
+          0,
+          262
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T20:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097399574805549319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Nature Astronomy - Applying mass–radius–composition models to the exoplanet system of the M dwarf star TRAPPIST-1, its planets f and g are determined to contain substantial amounts of...",
+              "display_url": "nature.com/articles/s4155…",
+              "end": 262,
+              "expanded_url": "https://www.nature.com/articles/s41550-018-0411-6",
+              "images": [
+                {
+                  "height": 738,
+                  "url": "https://pbs.twimg.com/news_img/2097399619739062272/2Ygh_nuX?format=jpg&name=orig",
+                  "width": 738
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2097399619739062272/2Ygh_nuX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 239,
+              "status": 200,
+              "title": "Inward migration of the TRAPPIST-1 planets as inferred from their water-rich compositions",
+              "unwound_url": "https://www.nature.com/articles/s41550-018-0411-6?error=cookies_not_supported&code=6e22e74e-33c6-4d9f-8e76-dccce4551e5c",
+              "url": "https://t.co/Zi0vwKl01J"
+            },
+            {
+              "display_url": "pic.x.com/StepxPZkvr",
+              "end": 286,
+              "expanded_url": "https://x.com/ToughSf/status/2097399574805549319/photo/1",
+              "media_key": "3_2096061944583057410",
+              "start": 263,
+              "url": "https://t.co/StepxPZkvr"
+            },
+            {
+              "display_url": "pic.x.com/StepxPZkvr",
+              "end": 286,
+              "expanded_url": "https://x.com/ToughSf/status/2097399574805549319/photo/1",
+              "media_key": "3_2096061944868532224",
+              "start": 263,
+              "url": "https://t.co/StepxPZkvr"
+            },
+            {
+              "display_url": "pic.x.com/StepxPZkvr",
+              "end": 286,
+              "expanded_url": "https://x.com/ToughSf/status/2097399574805549319/photo/1",
+              "media_key": "3_2096061943006011397",
+              "start": 263,
+              "url": "https://t.co/StepxPZkvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097399574805549319",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096061944583057410"
+          },
+          {
+            "media_key": "3_2096061944868532224"
+          },
+          {
+            "media_key": "3_2096061943006011397"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 498,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Did the planets in the TRAPPIST-1 system form far from their parent star then migrate inwards? \nThat would explain their distribution of water contents, from TRAPPIST-1f/g that are &gt;50%wt water/ice, to TRAPPIST-1b/c that are &lt;15%wt.\nhttps://t.co/Zi0vwKl01J https://t.co/StepxPZkvr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx(she/they) 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 107,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 84,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2097408688592158884",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 1939,
+          "like_count": 88909,
+          "listed_count": 0,
+          "media_count": 447,
+          "tweet_count": 5572
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-07T02:11:25.000Z",
+        "description": "Matterbeam.\nAuthor of the ToughSF blog. Original SuperNerd.\nEx-Kurzgesagt Duck. Freelance writer.\nDiscord https://t.co/Q4cBKnMezk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/nXvRPcE7uU",
+                "end": 129,
+                "expanded_url": "https://discord.gg/nXvRPcE7uU",
+                "start": 106,
+                "url": "https://t.co/Q4cBKnMezk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "toughsf.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://toughsf.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/l1z8pbs02Y"
+              }
+            ]
+          }
+        },
+        "id": "706663514845401088",
+        "is_identity_verified": false,
+        "location": "Luxembourg",
+        "most_recent_tweet_id": "2097399574805549319",
+        "name": "ToughSF",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/706663514845401088/1786044294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085447030361501696/7ji5DcDF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36583,
+          "following_count": 474,
+          "like_count": 72063,
+          "listed_count": 457,
+          "media_count": 12784,
+          "tweet_count": 36558
+        },
+        "url": "https://t.co/l1z8pbs02Y",
+        "username": "ToughSf",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
