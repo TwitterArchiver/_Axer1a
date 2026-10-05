@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Community Health",
+          "id": "918538847302041600",
+          "name": "Community Health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Common Medication",
+          "id": "920768310152593408",
+          "name": "Common Medication"
+        }
+      }
+    ],
+    "conversation_id": "2104890107396526496",
+    "created_at": "2026-09-29T11:04:43.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T12:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104890107396526496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1947950854302310400",
+          "start": 3,
+          "username": "anzen_bot_DXM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104890107396526496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104859095769424215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anzen_bot_DXM: 【注意喚起】痛み止めと咳止めの飲み合わせに注意⚠️\n\n痛み止めの「セレコキシブ」と咳止めの「デキストロメトルファン」を併用すると、デキストロメトルファンの血中濃度が約2.4倍に上昇することが分かっています💊\n..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Community Health",
+              "id": "918538847302041600",
+              "name": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Common Medication",
+              "id": "920768310152593408",
+              "name": "Common Medication"
+            }
+          }
+        ],
+        "conversation_id": "2104890107396526496",
+        "created_at": "2026-09-29T11:04:43.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T12:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104890107396526496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1947950854302310400",
+              "start": 3,
+              "username": "anzen_bot_DXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104890107396526496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104859095769424215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anzen_bot_DXM: 【注意喚起】痛み止めと咳止めの飲み合わせに注意⚠️\n\n痛み止めの「セレコキシブ」と咳止めの「デキストロメトルファン」を併用すると、デキストロメトルファンの血中濃度が約2.4倍に上昇することが分かっています💊\n..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947950854302310400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Community Health",
+              "id": "918538847302041600",
+              "name": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Common Medication",
+              "id": "920768310152593408",
+              "name": "Common Medication"
+            }
+          }
+        ],
+        "conversation_id": "2104859095769424215",
+        "created_at": "2026-09-29T09:01:29.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T10:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104859095769424215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104859095769424215",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 10810,
+          "like_count": 345,
+          "quote_count": 43,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "【注意喚起】痛み止めと咳止めの飲み合わせに注意⚠️\n\n痛み止めの「セレコキシブ」と咳止めの「デキストロメトルファン」を併用すると、デキストロメトルファンの血中濃度が約2.4倍に上昇することが分かっています💊\n..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 97,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 74,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2104890107396526496",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 1967,
+          "like_count": 91519,
+          "listed_count": 0,
+          "media_count": 454,
+          "tweet_count": 5659
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-23T09:24:22.000Z",
+        "description": "医療安全bot｜医療｜市販薬｜処方薬｜OD非推奨｜Amazonアソシエイト利用中",
+        "id": "1947950854302310400",
+        "is_identity_verified": false,
+        "location": "Shinjuku-ku, Tokyo",
+        "most_recent_tweet_id": "2104859095769424215",
+        "name": "新・安全情報bot",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947950854302310400/1753262853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947950968936771584/f4TvKtig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 121,
+          "like_count": 732,
+          "listed_count": 4,
+          "media_count": 588,
+          "tweet_count": 2572
+        },
+        "url": "",
+        "username": "anzen_bot_DXM",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

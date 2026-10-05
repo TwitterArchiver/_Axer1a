@@ -1,0 +1,767 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Aerospace",
+          "id": "872801340224806912",
+          "name": "Aerospace"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "NASA",
+          "id": "872802352448667648",
+          "name": "NASA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1412579054855671809",
+          "name": "Google Innovation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "NASA",
+          "id": "872802352448667648",
+          "name": "NASA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352681651516567553",
+          "name": "Space agencies & companies"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2098336931956535362",
+    "created_at": "2026-09-11T09:04:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098336931956535362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1341228134109069312",
+          "start": 3,
+          "username": "InversionSpace"
+        },
+        {
+          "end": 56,
+          "id": "11348282",
+          "start": 51,
+          "username": "NASA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098336931956535362",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098072906165354917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @InversionSpace: Inversion has been selected by @NASA to advance aerocapture technology for interplanetary missions.\n\nAerocapture is a s…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22000,
+        "height": 1080,
+        "media_key": "13_2098072668935512064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098072668935512064/img/HyEoBtNtePU1wAnl.jpg",
+        "public_metrics": {
+          "view_count": 27797
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098072668935512064/vid/avc1/320x320/PxewqiZviCYs9DLD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098072668935512064/pl/rfvT8yVuKc-ORn3e.m3u8"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098072668935512064/vid/avc1/720x720/dD-3BGdCUnTjuqIG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098072668935512064/vid/avc1/540x540/lG6NMF7BSKnVzrPP.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098072668935512064/vid/avc1/1080x1080/mti6CXPOOmgr_rGC.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2098336931956535362",
+        "created_at": "2026-09-11T09:04:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098336931956535362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1341228134109069312",
+              "start": 3,
+              "username": "InversionSpace"
+            },
+            {
+              "end": 56,
+              "id": "11348282",
+              "start": 51,
+              "username": "NASA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098336931956535362",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098072906165354917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @InversionSpace: Inversion has been selected by @NASA to advance aerocapture technology for interplanetary missions.\n\nAerocapture is a s…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098072668935512064"
+          ]
+        },
+        "author_id": "1341228134109069312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2098072906165354917",
+        "created_at": "2026-09-10T15:35:35.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098072906165354917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "11348282",
+              "start": 31,
+              "username": "NASA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qsSB2ytFcD",
+              "end": 302,
+              "expanded_url": "https://x.com/InversionSpace/status/2098072906165354917/video/1",
+              "media_key": "13_2098072668935512064",
+              "start": 279,
+              "url": "https://t.co/qsSB2ytFcD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098072906165354917",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2098072668935512064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 36,
+                "id": "11348282",
+                "start": 31,
+                "username": "NASA"
+              }
+            ]
+          },
+          "text": "Inversion has been selected by @NASA to advance aerocapture technology for interplanetary missions.\n\nAerocapture is a simple but powerful idea: use a planet’s atmosphere to slow down instead of fuel. \n\nSpacecraft arriving at another planet are traveling at tremendous speeds and traditionally must carry significant propellant to slow down and enter orbit. \n\nAerocapture instead uses aerodynamic forces during a single controlled pass through the atmosphere to shed velocity and achieve orbital capture. Less fuel means mass savings that can enable greater flexibility in launch vehicle selection, increased science payload, and significantly shorter trip times.\n\nUnder the contract, Inversion will study how Arc could support the demonstration through mission design, aerodynamics, trajectory analysis, and vehicle definition.\n\nThis award represents a new frontier for Arc and highlights the growing range of missions enabled by advanced reentry."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 76996,
+          "like_count": 644,
+          "quote_count": 18,
+          "reply_count": 25,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "Inversion has been selected by @NASA to advance aerocapture technology for interplanetary missions.\n\nAerocapture is a simple but powerful idea: use a planet’s atmosphere to slow down instead of fuel. \n\nSpacecraft arriving at another planet are traveling at tremendous speeds and https://t.co/qsSB2ytFcD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx(she/they) 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 107,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 84,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2098336931956535362",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 1962,
+          "like_count": 89189,
+          "listed_count": 0,
+          "media_count": 448,
+          "tweet_count": 5584
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-22T03:45:02.000Z",
+        "description": "Making Earth radically more accessible by turning space into a global logistics network",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "inversionspace.com",
+                "end": 23,
+                "expanded_url": "https://www.inversionspace.com/",
+                "start": 0,
+                "url": "https://t.co/IzxNK0PqiV"
+              }
+            ]
+          }
+        },
+        "id": "1341228134109069312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098073429991944193",
+        "name": "Inversion",
+        "pinned_tweet_id": "1973570866714988839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1341228134109069312/1759431116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699086658371792896/F7wZX2XG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8695,
+          "following_count": 38,
+          "like_count": 138,
+          "listed_count": 113,
+          "media_count": 82,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/IzxNK0PqiV",
+        "username": "InversionSpace",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-12-19T20:20:32.000Z",
+        "description": "Making the seemingly impossible, possible. ✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nasa.gov",
+                "end": 23,
+                "expanded_url": "http://www.nasa.gov/",
+                "start": 0,
+                "url": "https://t.co/9NkQJKAnuU"
+              }
+            ]
+          }
+        },
+        "id": "11348282",
+        "is_identity_verified": false,
+        "location": "Pale Blue Dot",
+        "most_recent_tweet_id": "2098168685013729468",
+        "name": "NASA",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11348282/1788992290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92388643,
+          "following_count": 117,
+          "like_count": 16987,
+          "listed_count": 96928,
+          "media_count": 28140,
+          "tweet_count": 74285
+        },
+        "url": "https://t.co/9NkQJKAnuU",
+        "username": "NASA",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

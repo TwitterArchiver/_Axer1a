@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2095543474498244849",
+    "created_at": "2026-09-28T13:19:58.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104561756857323911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047879211168493568",
+          "start": 0,
+          "username": "aberyoheiabe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104561756857323911",
+    "in_reply_to_user_id": "2047879211168493568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104540374731829542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aberyoheiabe 是鬼压床，原因未知"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2104540358470512640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTUTkIbsAANtLX.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2104540366129319936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTUUAqb0AAjrH0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2095543474498244849",
+        "created_at": "2026-09-28T13:19:58.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104561756857323911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047879211168493568",
+              "start": 0,
+              "username": "aberyoheiabe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104561756857323911",
+        "in_reply_to_user_id": "2047879211168493568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104540374731829542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiabe 是鬼压床，原因未知"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104540358470512640",
+            "3_2104540366129319936"
+          ]
+        },
+        "author_id": "2047879211168493568",
+        "conversation_id": "2095543474498244849",
+        "created_at": "2026-09-28T11:55:00.000Z",
+        "display_text_range": [
+          9,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104540374731829542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "_Axer1a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhOZzAb3OK",
+              "end": 66,
+              "expanded_url": "https://x.com/aberyoheiabe/status/2104540374731829542/photo/1",
+              "media_key": "3_2104540358470512640",
+              "start": 43,
+              "url": "https://t.co/dhOZzAb3OK"
+            },
+            {
+              "display_url": "pic.x.com/dhOZzAb3OK",
+              "end": 66,
+              "expanded_url": "https://x.com/aberyoheiabe/status/2104540374731829542/photo/1",
+              "media_key": "3_2104540366129319936",
+              "start": 43,
+              "url": "https://t.co/dhOZzAb3OK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104540374731829542",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104540358470512640"
+          },
+          {
+            "media_key": "3_2104540366129319936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095546001377640833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Axer1a 我找一下，也不是呼吸抑制，之前在小红书看到好几个这种类似状况的…… https://t.co/dhOZzAb3OK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 97,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 74,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2104561756857323911",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 1962,
+          "like_count": 91370,
+          "listed_count": 0,
+          "media_count": 454,
+          "tweet_count": 5655
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T03:24:13.000Z",
+        "description": "⊹ すずめ ⊹ 前世：@aberyoheiabe⌇三代目：@aberyoheiszm⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo\n↓🦋的联系方式！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "aberyoheiabe"
+              },
+              {
+                "end": 42,
+                "start": 29,
+                "username": "aberyoheiszm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/aberyo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/aberyoheiskm.bsky.social",
+                "start": 0,
+                "url": "https://t.co/8Sfw0dOLQB"
+              }
+            ]
+          }
+        },
+        "id": "2047879211168493568",
+        "is_identity_verified": false,
+        "location": "地獄の監禁室",
+        "most_recent_tweet_id": "2104548596301570247",
+        "name": "⊹ SUZUME ⊹🩵（寻回互fo）",
+        "pinned_tweet_id": "2094084500724809996",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047879211168493568/1777087553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047885258499162112/U69oegBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 358,
+          "like_count": 1052,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 680
+        },
+        "url": "https://t.co/8Sfw0dOLQB",
+        "username": "aberyoheiabe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

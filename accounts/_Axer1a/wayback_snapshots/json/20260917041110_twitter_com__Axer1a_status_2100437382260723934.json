@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2100437382260723934",
+    "created_at": "2026-09-17T04:11:10.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T05:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100437382260723934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yottan20001202…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yottan20001202/status/2100348500978626629",
+          "start": 6,
+          "url": "https://t.co/uW4Q3v9jE7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100437382260723934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100348500978626629",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有人类吗 https://t.co/uW4Q3v9jE7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2100348493193981952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSXv05FasAAXVit.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2100437382260723934",
+        "created_at": "2026-09-17T04:11:10.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T05:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100437382260723934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yottan20001202…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yottan20001202/status/2100348500978626629",
+              "start": 6,
+              "url": "https://t.co/uW4Q3v9jE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100437382260723934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100348500978626629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有人类吗 https://t.co/uW4Q3v9jE7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100348493193981952"
+          ]
+        },
+        "author_id": "776096283802996737",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100348500978626629",
+        "created_at": "2026-09-16T22:17:59.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T23:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100348500978626629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A3NKe4VVol",
+              "end": 100,
+              "expanded_url": "https://x.com/yottan20001202/status/2100348500978626629/photo/1",
+              "media_key": "3_2100348493193981952",
+              "start": 77,
+              "url": "https://t.co/A3NKe4VVol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100348500978626629",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100348493193981952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 152532,
+          "like_count": 1987,
+          "quote_count": 199,
+          "reply_count": 19,
+          "retweet_count": 266
+        },
+        "reply_settings": "everyone",
+        "text": "上画面の%表記デカすぎWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW https://t.co/A3NKe4VVol"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx(she/they) 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 107,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 84,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2100437382260723934",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 1963,
+          "like_count": 90209,
+          "listed_count": 0,
+          "media_count": 452,
+          "tweet_count": 5618
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-09-14T16:32:28.000Z",
+        "description": "maimai／全国大会優勝7回🏆(2020~6th 5連覇)／KoP4th.5thスコアタ1位(4th単独303%)／フジテレビ2時間生放送出演+優勝／地上波テレビ出演／公式生放送出演／元紫白全理論値／PANDORA白世界初完走/理論値/☆5／太鼓、ウニ、プロセカ／サブ垢→@ysk__sub_／KoP皆勤賞(単独)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "ysk__sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3HT8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC3HT8BsvQAa4WNZgOjCkIfQ",
+                "start": 0,
+                "url": "https://t.co/4IMXwPomYi"
+              }
+            ]
+          }
+        },
+        "id": "776096283802996737",
+        "is_identity_verified": false,
+        "location": "↓   チャンネル登録してね♪   ↓",
+        "most_recent_tweet_id": "2100413043431858365",
+        "name": "よしき",
+        "pinned_tweet_id": "1893891419569357280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/776096283802996737/1752903187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893924468168290304/wLCBA0FG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57830,
+          "following_count": 821,
+          "like_count": 24778,
+          "listed_count": 87,
+          "media_count": 14239,
+          "tweet_count": 66084
+        },
+        "url": "https://t.co/4IMXwPomYi",
+        "username": "yottan20001202",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

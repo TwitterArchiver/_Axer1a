@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2105630361875288304",
+    "created_at": "2026-10-01T12:22:52.000Z",
+    "display_text_range": [
+      10,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T13:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105634550114336815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2015509801846046721",
+          "start": 0,
+          "username": "fffalsum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105634550114336815",
+    "in_reply_to_user_id": "2015509801846046721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105630361875288304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fffalsum 去医院开安非他酮，说你抑郁就行，这个吃多了诱发癫痫所以滥用价值很低"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2105630361875288304",
+        "created_at": "2026-10-01T12:22:52.000Z",
+        "display_text_range": [
+          10,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105634550114336815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2015509801846046721",
+              "start": 0,
+              "username": "fffalsum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105634550114336815",
+        "in_reply_to_user_id": "2015509801846046721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105630361875288304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fffalsum 去医院开安非他酮，说你抑郁就行，这个吃多了诱发癫痫所以滥用价值很低"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015509801846046721",
+        "conversation_id": "2105630361875288304",
+        "created_at": "2026-10-01T12:06:13.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105630361875288304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105630361875288304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国庆节大脑能不能多给我一些多巴胺使用额度，我已经要被人挤人累死了，无力🏳️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 97,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 74,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2105634550114336815",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 1967,
+          "like_count": 91797,
+          "listed_count": 0,
+          "media_count": 454,
+          "tweet_count": 5671
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-25T19:39:30.000Z",
+        "description": "你觉得我在胡言乱语那就是我疯了/任何言论不指向任何人/发的所有东西旨在取悦我自己/我也不知道我在干嘛\n这个账号会更新但不限于碎碎念、好吃的好看的、小动物图片、音游相关、偶尔emo、网络文案等等\n想知道我的属性可以看置顶图",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/bf3X7jGd",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/bf3X7jGd",
+                "start": 0,
+                "url": "https://t.co/XYnd09cawX"
+              }
+            ]
+          }
+        },
+        "id": "2015509801846046721",
+        "is_identity_verified": false,
+        "location": "外星",
+        "most_recent_tweet_id": "2105630361875288304",
+        "name": "月社妃",
+        "pinned_tweet_id": "2049577875796525235",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2015509801846046721/1790023158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105304294950105088/OqxDqWG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 589,
+          "like_count": 28399,
+          "listed_count": 0,
+          "media_count": 484,
+          "tweet_count": 2513
+        },
+        "url": "https://t.co/XYnd09cawX",
+        "username": "fffalsum",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

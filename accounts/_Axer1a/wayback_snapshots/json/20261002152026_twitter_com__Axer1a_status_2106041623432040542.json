@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2105159169859092865",
+    "created_at": "2026-10-02T15:20:26.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T16:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106041623432040542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2096078893912621056",
+          "start": 0,
+          "username": "RomeMyerstaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106041623432040542",
+    "in_reply_to_user_id": "2096078893912621056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105159169859092865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RomeMyerstaki 晚点去药效都没了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54066,
+        "height": 1280,
+        "media_key": "13_2105159074140831744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105159074140831744/img/n9HEN6lLc9ux7P1C.jpg",
+        "public_metrics": {
+          "view_count": 21600
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105159074140831744/vid/avc1/320x568/nrBVfiW-QRUxDbCn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105159074140831744/vid/avc1/480x852/po3xoZFRinNp4aQT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105159074140831744/vid/avc1/720x1280/ht2WvwhunVkwcEyK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105159074140831744/pl/65X2rNvRrHS2Si9h.m3u8?v=ccd"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2105159169859092865",
+        "created_at": "2026-10-02T15:20:26.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106041623432040542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2096078893912621056",
+              "start": 0,
+              "username": "RomeMyerstaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106041623432040542",
+        "in_reply_to_user_id": "2096078893912621056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105159169859092865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RomeMyerstaki 晚点去药效都没了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105159074140831744"
+          ]
+        },
+        "author_id": "2096078893912621056",
+        "conversation_id": "2105159169859092865",
+        "created_at": "2026-09-30T04:53:52.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T05:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105159169859092865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuWOUZUwf8",
+              "end": 41,
+              "expanded_url": "https://x.com/RomeMyerstaki/status/2105159169859092865/video/1",
+              "media_key": "13_2105159074140831744",
+              "start": 18,
+              "url": "https://t.co/BuWOUZUwf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105159169859092865",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105159074140831744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 39691,
+          "like_count": 523,
+          "quote_count": 24,
+          "reply_count": 161,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "回顾经典抖人o12t愈美片怕死洗胃 https://t.co/BuWOUZUwf8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 97,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 74,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2106041623432040542",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 1987,
+          "like_count": 92133,
+          "listed_count": 0,
+          "media_count": 454,
+          "tweet_count": 5673
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T03:32:46.000Z",
+        "description": "可以叫我纯度，09的幕刃目前在工作，我💊/🚬\n请不要瞎骂我🥰",
+        "id": "2096078893912621056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105730662108217838",
+        "name": "纯度不是蠢嘟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096078893912621056/1790795007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105372923762737152/p3X5d3YI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 102,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "RomeMyerstaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

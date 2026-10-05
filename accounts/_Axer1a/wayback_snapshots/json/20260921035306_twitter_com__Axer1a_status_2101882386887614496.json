@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "conversation_id": "2101869797655093547",
+    "created_at": "2026-09-21T03:53:06.000Z",
+    "display_text_range": [
+      15,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T04:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101882386887614496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1529373912764514304",
+          "start": 0,
+          "username": "AigXiApbPKiX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101882386887614496",
+    "in_reply_to_user_id": "1529373912764514304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101869797655093547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AigXiApbPKiX3 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2101869797655093547",
+        "created_at": "2026-09-21T03:53:06.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T04:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101882386887614496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1529373912764514304",
+              "start": 0,
+              "username": "AigXiApbPKiX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101882386887614496",
+        "in_reply_to_user_id": "1529373912764514304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101869797655093547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AigXiApbPKiX3 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529373912764514304",
+        "conversation_id": "2101869797655093547",
+        "created_at": "2026-09-21T03:03:05.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T04:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101869797655093547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AigXiApbPKiX3/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/AigXiApbPKiX3/status/2101868863575203888",
+              "start": 9,
+              "url": "https://t.co/4AV8NfjyIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101869797655093547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101868863575203888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "港美比愈美苦，， https://t.co/4AV8NfjyIF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx(she/they) 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 107,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 84,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2101882386887614496",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 1969,
+          "like_count": 90431,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 5624
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-25T08:08:57.000Z",
+        "description": "死比活难受，也许吧",
+        "id": "1529373912764514304",
+        "is_identity_verified": false,
+        "location": "IP属地：支那",
+        "most_recent_tweet_id": "2101873568527331780",
+        "name": "レリック",
+        "pinned_tweet_id": "2099148720801767704",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1529373912764514304/1767080737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009458384773492736/PjBe_ohx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 822,
+          "like_count": 36780,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 1849
+        },
+        "url": "",
+        "username": "AigXiApbPKiX3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

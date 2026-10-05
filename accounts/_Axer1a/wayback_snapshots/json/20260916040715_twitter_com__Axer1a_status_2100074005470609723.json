@@ -1,0 +1,518 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1494669485214633984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "フジテレビ系で放送、朝の情報番組",
+          "id": "10029113127",
+          "name": "めざましテレビ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281312750648479744",
+          "name": "Talk shows"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281313327956688896",
+          "name": "Daytime talk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293682659860742144",
+          "name": "めざましテレビ"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1293682659860742144",
+          "name": "めざましテレビ"
+        }
+      }
+    ],
+    "conversation_id": "2100074005470609723",
+    "created_at": "2026-09-16T04:07:15.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T05:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100074005470609723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1109795605658763264",
+          "start": 3,
+          "username": "N_nycticorax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100074005470609723",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100051033716343035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N_nycticorax: いよいよ明日\n\n9月１７日（木）放送予定の めざましテレビ「ロペとアニマル」のコーナーに Ｘに投稿した動画が放送される予定です  \n\n放送時間は午前８時５５分頃～午前８時５８分頃の予定です \n\n都合により放送の延期や中止になる場合があります…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50066,
+        "height": 720,
+        "media_key": "13_2100050548217241600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100050548217241600/img/50IPa0MQdgiLnoun.jpg",
+        "public_metrics": {
+          "view_count": 316
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100050548217241600/vid/avc1/480x270/ZtfAhNilsGBMXCKw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100050548217241600/vid/avc1/640x360/qzsLHJ5gLGP99P9i.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100050548217241600/vid/avc1/1280x720/XCdAUx8HsoTFqGad.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100050548217241600/pl/Co14KFuKyF2l3AbU.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "フジテレビ系で放送、朝の情報番組",
+              "id": "10029113127",
+              "name": "めざましテレビ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281312750648479744",
+              "name": "Talk shows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281313327956688896",
+              "name": "Daytime talk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293682659860742144",
+              "name": "めざましテレビ"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1293682659860742144",
+              "name": "めざましテレビ"
+            }
+          }
+        ],
+        "conversation_id": "2100074005470609723",
+        "created_at": "2026-09-16T04:07:15.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100074005470609723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1109795605658763264",
+              "start": 3,
+              "username": "N_nycticorax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100074005470609723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100051033716343035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N_nycticorax: いよいよ明日\n\n9月１７日（木）放送予定の めざましテレビ「ロペとアニマル」のコーナーに Ｘに投稿した動画が放送される予定です  \n\n放送時間は午前８時５５分頃～午前８時５８分頃の予定です \n\n都合により放送の延期や中止になる場合があります…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100050548217241600"
+          ]
+        },
+        "author_id": "1109795605658763264",
+        "conversation_id": "2100051033716343035",
+        "created_at": "2026-09-16T02:35:58.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100051033716343035"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "ゴイサギ"
+            },
+            {
+              "end": 139,
+              "start": 129,
+              "tag": "カッコいいゴイサギ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxLbqjMaOr",
+              "end": 163,
+              "expanded_url": "https://x.com/N_nycticorax/status/2100051033716343035/video/1",
+              "media_key": "13_2100050548217241600",
+              "start": 140,
+              "url": "https://t.co/YxLbqjMaOr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100051033716343035",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100050548217241600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 906,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "いよいよ明日\n\n9月１７日（木）放送予定の めざましテレビ「ロペとアニマル」のコーナーに Ｘに投稿した動画が放送される予定です  \n\n放送時間は午前８時５５分頃～午前８時５８分頃の予定です \n\n都合により放送の延期や中止になる場合があります  \n#ゴイサギ #カッコいいゴイサギ https://t.co/YxLbqjMaOr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx(she/they) 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 107,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 84,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2100074005470609723",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 1962,
+          "like_count": 89872,
+          "listed_count": 0,
+          "media_count": 452,
+          "tweet_count": 5615
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-24T12:34:26.000Z",
+        "description": "『特別展「鳥」公式トリバサダー』、プロフィール画像のゴイサギは @goi_can_flyさんに作って頂きました ゴイサギ推し もふもふもふもふもふ RX10M4 小鳥レスキュー会 天王寺動物園ファンクラブ https://t.co/7GYY7fMWcr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "goi_can_fly"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/goisagi",
+                "end": 126,
+                "expanded_url": "https://linktr.ee/goisagi",
+                "start": 103,
+                "url": "https://t.co/7GYY7fMWcr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goisaginokai.wixsite.com/goisagi",
+                "end": 23,
+                "expanded_url": "https://goisaginokai.wixsite.com/goisagi",
+                "start": 0,
+                "url": "https://t.co/fyeV77OGBn"
+              }
+            ]
+          }
+        },
+        "id": "1109795605658763264",
+        "is_identity_verified": false,
+        "location": "大阪",
+        "most_recent_tweet_id": "2100051033716343035",
+        "name": "よしあき　日本ゴイサギの会会長",
+        "pinned_tweet_id": "1839286349469258162",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1109795605658763264/1563170282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607002644689866752/qJQn4xse_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 442,
+          "like_count": 119579,
+          "listed_count": 36,
+          "media_count": 3953,
+          "tweet_count": 8781
+        },
+        "url": "https://t.co/fyeV77OGBn",
+        "username": "N_nycticorax",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
